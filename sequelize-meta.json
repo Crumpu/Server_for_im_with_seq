@@ -1,0 +1,11 @@
+[
+  "20240724212316-create-items.js",
+  "20240724212836-create-item-categories.js",
+  "20240724213131-create-item-types.js",
+  "20240724213231-create-brands.js",
+  "20240724213309-create-stores.js",
+  "20240724213408-create-models.js",
+  "20240724213444-create-customers.js",
+  "20240724213715-create-orders.js",
+  "20240725115936-create-item-order.js"
+]
