@@ -56,11 +56,19 @@ module.exports = (sequelize, DataTypes) => {
       amount: {
         type: DataTypes.DECIMAL(10, 0),
       },
+      createdAt: {
+        type: DataTypes.DATE,
+        allowNull: true,
+      },
+      updatedAt: {
+        type: DataTypes.DATE,
+        allowNull: true,
+      },
     },
     {
       sequelize,
       modelName: "Item",
-      tableName: "Items",
+      tableName: "items",
       underscored: true,
     }
   );

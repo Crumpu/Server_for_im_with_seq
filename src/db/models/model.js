@@ -25,11 +25,19 @@ module.exports = (sequelize, DataTypes) => {
       },
       brand_id: DataTypes.INTEGER,
       description: DataTypes.TEXT,
+      createdAt: {
+        type: DataTypes.DATE,
+        allowNull: true,
+      }, 
+      updatedAt: {
+        type: DataTypes.DATE,
+        allowNull: true,
+      }
     },
     {
       sequelize,
       modelName: "Item_model",
-      tableName: "Models",
+      tableName: "models",
       underscored: true,
     }
   );

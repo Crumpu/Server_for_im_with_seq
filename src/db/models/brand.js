@@ -29,11 +29,20 @@ module.exports = (sequelize, DataTypes) => {
         allowNull: false,
       },
       description: DataTypes.TEXT,
+      createdAt: {
+        type: DataTypes.DATE,
+        allowNull: true,
+      },
+      updatedAt: {
+        type: DataTypes.DATE,
+        allowNull: true,
+      },
     },
+
     {
       sequelize,
       modelName: "Brand",
-      tableName: "Brands",
+      tableName: "brands",
       underscored: true,
     }
   );

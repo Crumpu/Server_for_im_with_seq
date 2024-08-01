@@ -1,10 +1,10 @@
 const http = require("http");
 // =========================
-const path = require('path')
+const path = require("path");
 // ========================
-const app = require(path.resolve('src', 'app.js'));
+const app = require(path.resolve("src", "app.js"));
 // ========================
-const db = require(path.resolve('src', 'db', 'models'))
+const db = require(path.resolve("src", "db", "models"));
 // =========================
 require("dotenv").config();
 
@@ -20,7 +20,7 @@ const dbCheck = async () => {
     );
   } catch (error) {
     console.log("Cannot connect to DB: ", error.message);
-  }
+  } 
 };
 dbCheck();
 
@@ -28,14 +28,14 @@ server.listen(PORT, HOST_NAME, () => {
   console.log(`Server is running at http://${HOST_NAME}:${PORT}`);
 });
 
+const syncSomeTable = async (model) => {
+  try {
+    await model.sync({ alter: true });
+    console.log("Sync table has been done");
+  } catch (error) {
+    console.log("Cannot sync table: ", error.message);
+  }
+};
 
-const syncSomeTable = async () => {
-    try {
-        await db.sequelize.sync({alter: true});
-        console.log('Sync table has been done')
-    } catch (error) {
-        console.log('Cannot sync table: ', error.message)
-    }
-}
+// syncSomeTable(db.Item);
 
-// syncSomeTable()
