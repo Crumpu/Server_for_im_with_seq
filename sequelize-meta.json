@@ -1,11 +1,11 @@
 [
-  "20240724212316-create-items.js",
-  "20240724212836-create-item-categories.js",
-  "20240724213131-create-item-types.js",
-  "20240724213231-create-brands.js",
-  "20240724213309-create-stores.js",
-  "20240724213408-create-models.js",
-  "20240724213444-create-customers.js",
-  "20240724213715-create-orders.js",
-  "20240725115936-create-item-order.js"
+  "1-create-brands.js",
+  "2-create-models.js",
+  "3-create-item-categories.js",
+  "4-create-item-types.js",
+  "5-create-stores.js",
+  "6-create-customers.js",
+  "7-create-orders.js",
+  "8-create-items.js",
+  "9-create-item-order.js"
 ]

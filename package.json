@@ -7,7 +7,9 @@
     "start": "nodemon index.js",
     "migall": "npx sequelize db:migrate",
     "migun": "npx sequelize db:migrate:undo:all",
-    "seedall": "npx sequelize db:seed:all"
+    "seedall": "npx sequelize db:seed:all",
+    "seedun": "npx sequelize db:seed:undo:all",
+    "seedc": "npx sequelize seed:create --name"
   },
   "author": "",
   "license": "ISC",

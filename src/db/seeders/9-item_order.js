@@ -1,8 +1,9 @@
 "use strict";
+const fs = require('fs')
+
 const path = require("path");
 const itemOrderPath = path.resolve("src", "constants");
 const { item_order } = require(itemOrderPath);
-
 
 module.exports = {
   async up(queryInterface, Sequelize) {

@@ -28,14 +28,14 @@ server.listen(PORT, HOST_NAME, () => {
   console.log(`Server is running at http://${HOST_NAME}:${PORT}`);
 });
 
-const syncSomeTable = async (model) => {
+const syncSomeTable = async () => {
   try {
-    await model.sync({ alter: true });
+    await db.sequelize.sync({ alter: true });
     console.log("Sync table has been done");
   } catch (error) {
     console.log("Cannot sync table: ", error.message);
   }
 };
 
-// syncSomeTable(db.Item);
+// syncSomeTable();
 

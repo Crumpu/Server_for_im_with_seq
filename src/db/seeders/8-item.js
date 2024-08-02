@@ -1,7 +1,7 @@
 "use strict";
 const path = require("path");
-const itemPath = path.resolve("src", "constants");
-const { items } = require(itemPath);
+const itemsPath = path.resolve("src", "constants");
+const { items } = require(itemsPath);
 
 
 
