@@ -1,0 +1,31 @@
+//  Get all customers
+GET http://127.0.0.1:5000/api/customers   HTTP/1.1
+content-type: application/json
+
+###
+//  Get all customers where id more than half of the maxnumber.
+GET http://127.0.0.1:5000/api/customers/moreThan   HTTP/1.1
+content-type: application/json
+
+### 
+//  Get some customer
+GET http://127.0.0.1:5000/api/customers/someCustomers?find=brown   HTTP/1.1
+content-type: application/json
+
+###
+// Delete some customers
+DELETE  http://127.0.0.1:5000/api/customers/someCustomers   HTTP/1.1
+content-type: application/json
+
+
+### 
+// Update some customers 
+PUT http://127.0.0.1:5000/api/customers   HTTP/1.1
+content-type: application/json
+
+{
+  "name": "William Lowson",
+  "email": "wl@gmail.com",
+  "password": "qwertyuio",
+  "id": 1
+}

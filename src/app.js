@@ -1,10 +1,13 @@
+const path = require('path');
 const express = require('express');
-// const router = require("./routers")
+const {errHandlers: {validationErrorHandler, sequelizeErrorHandler, errorHandlers}} = require('./middleware')
+const router = require("./routers")
 const app = express()
 
-// Не забыть прописать эррор хендлеры 
+
 
 app.use(express.json())
-// app.use(router)
+app.use('/api', router)
+app.use(validationErrorHandler,  sequelizeErrorHandler, errorHandlers)
 
 module.exports = app;

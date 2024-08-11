@@ -25,6 +25,8 @@ module.exports = {
           model: "customers",
           key: "id",
         },
+        onDelete: 'CASCADE', 
+        onUpdate: 'CASCADE',
       },
       amount: {
         type: Sequelize.INTEGER,

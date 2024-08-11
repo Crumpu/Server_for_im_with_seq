@@ -1,0 +1,30 @@
+//  Get all brands 
+GET http://127.0.0.1:5000/api/brands   HTTP/1.1
+content-type: application/json
+
+###
+//  Get all brands where id more than half of the maxnumber.
+GET http://127.0.0.1:5000/api/brands/moreThan   HTTP/1.1
+content-type: application/json
+
+### 
+//  Get some brands 
+GET http://127.0.0.1:5000/api/brands/someBrands?brands=Nike&brands=Apple&brands=Samsung+electronics&brands=Xbox   HTTP/1.1
+content-type: application/json
+
+###
+// Delete some brands 
+DELETE  http://127.0.0.1:5000/api/brands/someBrands   HTTP/1.1
+content-type: application/json
+
+
+### 
+// Update some brands 
+PUT http://127.0.0.1:5000/api/brands/  HTTP/1.1
+content-type: application/json
+
+{
+  "title": "Samsung electronics",
+  "description": "The best or nothing",
+  "id": 2
+}

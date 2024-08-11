@@ -12,6 +12,11 @@ module.exports = (sequelize, DataTypes) => {
       Order.belongsToMany(models.Item, {
         through: models.Item_order,
       });
+      Order.belongsTo(models.Customer, {
+        foreignKey: "customer",
+        onDelete: "CASCADE",
+        onUpdate: "CASCADE",
+      });
     }
   }
   Order.init(

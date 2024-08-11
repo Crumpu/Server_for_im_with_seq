@@ -1,0 +1,29 @@
+//  Get all types
+GET http://127.0.0.1:5000/api/types  HTTP/1.1
+content-type: application/json
+
+###
+//  Get all types where id more than half of the maxnumber.
+GET http://127.0.0.1:5000/api/types/moreThan  HTTP/1.1
+content-type: application/json
+
+### 
+//  Get some types
+GET http://127.0.0.1:5000/api/types/someTypes?types=Toys&types=Games HTTP/1.1
+content-type: application/json
+
+###
+// Delete some types
+DELETE  http://127.0.0.1:5000/api/types/someTypes HTTP/1.1
+content-type: application/json
+
+### 
+// Update some types 
+PUT http://127.0.0.1:5000/api/types  HTTP/1.1
+content-type: application/json
+
+{
+  "title": "Notebook & Ultrabooks",
+  "description": "Electronics for busines",
+  "id": 2
+}

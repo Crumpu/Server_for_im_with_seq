@@ -1,0 +1,29 @@
+//  Get all categories
+GET http://127.0.0.1:5000/api/categories  HTTP/1.1
+content-type: application/json
+
+###
+//  Get all categories where id more than half of the maxnumber.
+GET http://127.0.0.1:5000/api/categories/moreThan  HTTP/1.1
+content-type: application/json
+
+### 
+//  Get some categories
+GET http://127.0.0.1:5000/api/categories/someCategory?categories=Electronics&categories=Home+Decor&categories=Garden+and+Outdoor HTTP/1.1
+content-type: application/json
+
+###
+// Delete some categories
+DELETE  http://127.0.0.1:5000/api/categories/someCategory HTTP/1.1
+content-type: application/json
+
+### 
+// Update some categories 
+PUT http://127.0.0.1:5000/api/categories  HTTP/1.1
+content-type: application/json
+
+{
+  "title": "Electronics&Gdgets",
+  "description": "Electronics gadgets for your",
+  "id": 1
+}

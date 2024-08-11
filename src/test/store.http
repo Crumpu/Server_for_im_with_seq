@@ -1,0 +1,30 @@
+//  Get all stores 
+GET http://127.0.0.1:5000/api/stores  HTTP/1.1
+content-type: application/json
+
+###
+//  Get all stores where id more than half of the maxnumber.
+GET http://127.0.0.1:5000/api/stores/moreThan  HTTP/1.1
+content-type: application/json
+
+### 
+//  Get some stores
+GET http://127.0.0.1:5000/api/stores/someStores?stores=Rozetka&stores=Epicentr  HTTP/1.1
+content-type: application/json
+
+###
+// Delete some stores
+DELETE  http://127.0.0.1:5000/api/stores/someStores  HTTP/1.1
+content-type: application/json
+
+
+### 
+// Update some stores 
+PUT http://127.0.0.1:5000/api/stores  HTTP/1.1
+content-type: application/json
+
+{
+  "title": "Fresh Code",
+  "description": "fc.com.ua",
+  "id": 5
+}

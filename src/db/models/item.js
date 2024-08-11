@@ -11,18 +11,23 @@ module.exports = (sequelize, DataTypes) => {
       // define association here
       Item.belongsTo(models.Item_category, {
         foreignKey: "categ_id",
+
       });
       Item.belongsTo(models.Item_type, {
         foreignKey: "type_id",
+
       });
       Item.belongsTo(models.Brand, {
         foreignKey: "brand_id",
+
       });
       Item.belongsTo(models.Item_model, {
         foreignKey: "model_id",
+
       });
       Item.belongsTo(models.Store, {
         foreignKey: "store_id",
+ 
       });
       Item.belongsToMany(models.Order, {
         through: models.Item_order,

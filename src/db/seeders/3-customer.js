@@ -1,14 +1,16 @@
 "use strict";
 const path = require("path");
+const { Customer } = require('../models'); 
 const customerPath = path.resolve("src", "constants");
-const { customer } = require(customerPath);
+const { customer } = require(customerPath); 
 
 module.exports = {
-  async up(queryInterface, Sequelize) {
-    await queryInterface.bulkInsert("customers", customer, {});
+  async up() {
+ 
+    await Customer.bulkCreate(customer);
   },
 
-  async down(queryInterface, Sequelize) {
-    await queryInterface.bulkDelete("customers", null, {});
+  async down() {
+    await Customer.destroy({ where: {} });
   },
 };
