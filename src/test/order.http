@@ -28,5 +28,5 @@ content-type: application/json
   "date": "2024-08-01T22:45:48.212Z",
   "amount": 656,
   "paid": false,
-  "customer": 5
+  "customer": "Sophia Brown"
 }

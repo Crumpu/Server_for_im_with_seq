@@ -137,8 +137,22 @@ class OrderController {
     const t = await sequelize.transaction();
     try {
       const { body } = req;
-      console.log(body)
-      const updatedOrder = await Order.update(body, {
+          const customer = await Customer.findOne({
+        where: {
+          name: {
+            [Op.iLike]: body.customer,
+          }
+        },
+        raw: true, 
+      })
+      const newBody = await {
+        code: body.code,
+        date: body.date,
+        amount: body.amount,
+        paid: body.paid,
+        customer: customer.id
+      }
+      const updatedOrder = await Order.update(newBody, {
         where: {
           id: body.code,
         },
