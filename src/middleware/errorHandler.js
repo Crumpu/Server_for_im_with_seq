@@ -21,21 +21,26 @@ module.exports.validationErrorHandler = (err, req, res, next) => {
 module.exports.sequelizeErrorHandler = (err, req, res, next) => {
   if (err instanceof BaseError) {
     return res.status(406).send({
-      errors: [{ title: "Sequelize Error", details: err.errors }],
+      errors: [
+        {
+          title: "Sequelize Error",
+          details: err.errors,
+        },
+      ],
     });
   }
 };
 
 module.exports.errorHandlers = (err, req, res, next) => {
-  if(res.headerSent){
-    return 
+  if (res.headerSent) {
+    return;
   }
 
   res.status(err?.status ?? 500).send({
     errors: [
       {
-        title: err?.message ?? 'Internal server error'
-      }
-    ]
-  })
-}
+        title: err?.message ?? "Internal server error",
+      },
+    ],
+  });
+};

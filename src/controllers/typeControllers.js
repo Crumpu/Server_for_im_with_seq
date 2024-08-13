@@ -7,7 +7,7 @@ const { Item_type: Type, sequelize } = require(path.resolve(
   "models"
 ));
 
-class BrandController {
+class TypeController {
   async getAllTypes(req, res, next) {
     try {
       const { limit, offset } = req.pagination;
@@ -130,4 +130,4 @@ class BrandController {
   }
 }
 
-module.exports = new BrandController();
+module.exports = new TypeController();

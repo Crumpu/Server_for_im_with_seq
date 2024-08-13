@@ -7,7 +7,7 @@ const { Store, sequelize } = require(path.resolve(
   "models"
 ));
 
-class BrandController {
+class StoreController {
   async getAllStores(req, res, next) {
     try {
       const { limit, offset } = req.pagination;
@@ -88,11 +88,11 @@ class BrandController {
       });
       console.log(deletedCount)
       if (deletedCount) {
-        console.log(res.statusCode, "Types has been deleted");
+        console.log(res.statusCode, "Stores has been deleted");
         res.sendStatus(res.statusCode);
       } else {
         console.log(res.statusCode);
-        next(createError(404, "No types to delete"));
+        next(createError(404, "No stores to delete"));
       }
       await t.commit();
     } catch (error) {
@@ -130,4 +130,4 @@ class BrandController {
   }
 }
 
-module.exports = new BrandController();
+module.exports = new StoreController();

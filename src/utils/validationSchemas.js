@@ -26,8 +26,19 @@ const CATEGORY_BRAND_TYPE_STORE_SCHEMA = yup.object().shape({
   description: DESCRIPTION_SCHEMA,
 });
 
+// Orders schema 
+
+const ORDER_SCHEMA = yup.object().shape({
+  code: yup.number().positive().required(),
+  date: yup.date().required(),
+  customer: yup.string(),
+  amount: yup.number().min(0),
+  paid: yup.boolean().required(),
+})
+
 module.exports = {
   PAGINATION_SCHEMA,
   CUSTOMER_SCHEMA,
   CATEGORY_BRAND_TYPE_STORE_SCHEMA,
+  ORDER_SCHEMA,
 };

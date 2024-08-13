@@ -7,7 +7,7 @@ const { Item_category: Category, sequelize } = require(path.resolve(
   "models"
 ));
 
-class BrandController {
+class CategoryController {
   async getAllCategories(req, res, next) {
     try {
       const { limit, offset } = req.pagination;
@@ -130,4 +130,4 @@ class BrandController {
   }
 }
 
-module.exports = new BrandController();
+module.exports = new CategoryController();
