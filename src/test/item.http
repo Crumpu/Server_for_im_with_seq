@@ -8,24 +8,27 @@ GET http://127.0.0.1:5000/api/items/moreThan  HTTP/1.1
 content-type: application/json
 
 ### 
-//  Get some models
-GET http://127.0.0.1:5000/api/items/someItems?models=13&models=galaxy&brands=apple&brands=samsung  HTTP/1.1
+//  Get some items
+GET http://127.0.0.1:5000/api/items/someItems?brands=apple&brands=samsung&brands=dell  HTTP/1.1
 content-type: application/json
 
 ###
-// Delete some models
-DELETE  http://127.0.0.1:5000/api/models/someModels?models=apple HTTP/1.1
+// Delete some items
+DELETE  http://127.0.0.1:5000/api/items/someItems?models=apple&models=iphone HTTP/1.1
 content-type: application/json
 
 
 ### 
-// Update some models 
-PUT http://127.0.0.1:5000/api/models  HTTP/1.1
+// Update some items 
+PUT http://127.0.0.1:5000/api/items
 content-type: application/json
 
 {
-    "id": 5,
-    "title": "AirPods Pro2",
-    "brand": "Apple",
-    "description": "Noise-canceling wireless earbuds."
-  }
+  "id": 14,
+  "category": "Electronics",
+  "type": "Accessories for gadget",
+  "brand": "itemControllerApple",
+  "price": "92716.00",
+  "store": "Dropshipping",
+  "amount": "912"
+},

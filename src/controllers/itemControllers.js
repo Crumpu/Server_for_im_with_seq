@@ -121,20 +121,8 @@ class OrderController {
 
   async getSomeItems(req, res, next) {
     try {
-      const models = req.query.models;
       const brands = req.query.brands;
-      const arrModels = Array.isArray(models) ? models : [models];
       const arrBrands = Array.isArray(brands) ? brands : [brands];
-      const someModels = await Model.findAll({
-        where: {
-          [Op.or]: arrModels.map((model) => ({
-            title: {
-              [Op.iLike]: `%${model}%`,
-            },
-          })),
-        },
-        raw: true,
-      });
       const someBrands = await Brand.findAll({
         where: {
           [Op.or]: arrBrands.map((brand) => ({
@@ -149,9 +137,7 @@ class OrderController {
       const arrIdBrands = [];
       someBrands.map((brand) => arrIdBrands.push(brand.id));
       console.log(arrIdBrands);
-      const arrIdModels = [];
-      someModels.map((model) => arrIdModels.push(model.id));
-      console.log(arrIdModels);
+
       const someItems = await Item.findAll({
         where: {
           brand_id: {
@@ -208,24 +194,42 @@ class OrderController {
     }
   }
 
-  async deleteSomeModels(req, res, next) {
+  async deleteSomeItems(req, res, next) {
     const t = await sequelize.transaction();
     try {
-      const modelToDelete = req.query.models;
-      const deletedCount = await Model.destroy({
+      const modelFromQuery = req.query.models;
+
+      const arrModels = Array.isArray(modelFromQuery) ? modelFromQuery : [modelFromQuery];
+
+      const itemToDelete = await Model.findAll({
         where: {
-          title: {
-            [Op.iLike]: `%${modelToDelete}%`,
+          [Op.or]: arrModels.map((model) => ({
+            title: {
+              [Op.iLike]: `%${model}%`,
+            },
+          })),
+        },
+        raw: true,
+      });
+
+      const arrIdModels = []
+      const idModelsToDelete = arrIdModels.push(...itemToDelete.map((model) => model.id))
+      console.log(arrIdModels)
+
+      const deletedCount = await Item.destroy({
+        where: {
+          model_id: {
+            [Op.or]: arrIdModels,
           },
         },
         transaction: t,
       });
       if (deletedCount) {
-        console.log(res.statusCode, "Models has been deleted");
+        console.log(res.statusCode, "Items has been deleted");
         res.sendStatus(res.statusCode);
       } else {
         console.log(res.statusCode);
-        next(createError(404, "No models to delete"));
+        next(createError(404, "No items to delete"));
       }
       await t.commit();
     } catch (error) {
@@ -235,42 +239,9 @@ class OrderController {
     }
   }
 
-  async updateModels(req, res, next) {
-    const t = await sequelize.transaction();
-    try {
-      const { body } = req;
-      const brand = await Brand.findOne({
-        where: {
-          title: {
-            [Op.iLike]: body.brand,
-          },
-        },
-        raw: true,
-      });
-      const updatedOrder = await Model.update(
-        { ...body, brand: brand.id },
-        {
-          where: {
-            id: body.id,
-          },
-          raw: true,
-          transaction: t,
-        }
-      );
-      console.log(updatedOrder);
-      if (updatedOrder[0] > 0) {
-        console.log(`Result is: ${JSON.stringify(updatedOrder, null, 2)}`);
-        res.status(200).json(updatedOrder);
-      } else {
-        console.log("No models to update");
-        next(createError(404, "No models to update"));
-      }
-      await t.commit();
-    } catch (error) {
-      console.log(error.message);
-      await t.rollback();
-      next(error);
-    }
+  async updateItems(req, res, next) {
+   console.log(res)
+ console.log('5555555555555')
   }
 }
 

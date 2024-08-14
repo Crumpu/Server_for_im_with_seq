@@ -10,7 +10,7 @@ const router = new Router();
 router
   .route('/')
   .get(paginate.paginateSomething, modelController.getAllModels)
-  .put(validateModel, modelController.updateModels)
+  .put( modelController.updateModels)
 
 router
   .route('/moreThan')

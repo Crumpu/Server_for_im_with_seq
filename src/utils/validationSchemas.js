@@ -44,6 +44,12 @@ const MODELS_SCHEMA = yup.object().shape({
   description: DESCRIPTION_SCHEMA,
 })
 
+// Items schema
+
+const ITEMS_SCHEMA = yup.object().shape({
+  
+})
+
 module.exports = {
   MODELS_SCHEMA,
   PAGINATION_SCHEMA,
