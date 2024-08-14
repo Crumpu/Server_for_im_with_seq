@@ -107,9 +107,8 @@ class BrandController {
         },
         raw: true,
         transaction: t,
-        returning: ["title", "description"],
       });
-      if (updatedBrand) {
+      if (updatedBrand[0] > 0) {
         console.log(`Result is: ${JSON.stringify(updatedBrand, null, 2)}`);
         res.status(200).json(updatedBrand);
       } else {

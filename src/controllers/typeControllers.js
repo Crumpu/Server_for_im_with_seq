@@ -112,9 +112,8 @@ class TypeController {
         },
         raw: true,
         transaction: t,
-        returning: ["title", "description"],
       });
-      if (updatedType) {
+      if (updatedType[0] > 0) {
         console.log(`Result is: ${JSON.stringify(updatedType, null, 2)}`);
         res.status(200).json(updatedType);
       } else {

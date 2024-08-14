@@ -9,7 +9,7 @@ module.exports.paginateSomething = async (req, res, next) => {
   }
 
   const pagination = { 
-    limit: result ?? 10,
+    limit: result ?? 20,
     offset: (page - 1) * result || 0, 
   }
 

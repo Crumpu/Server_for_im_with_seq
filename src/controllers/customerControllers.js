@@ -111,9 +111,8 @@ class CustomerController {
         },
         raw: true,
         transaction: t,
-        returning: ["name", "email", "password"],
       });
-      if (updatedCustomer) {
+      if (updatedCustomer[0] > 0) {
         console.log(`Result is: ${JSON.stringify(updatedCustomer, null, 2)}`);
         res.status(200).json(updatedCustomer);
       } else {

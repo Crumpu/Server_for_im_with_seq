@@ -1,0 +1,31 @@
+//  Get all models 
+GET http://127.0.0.1:5000/api/models  HTTP/1.1
+content-type: application/json
+
+###
+//  Get all models where id more than half of the maxnumber.
+GET http://127.0.0.1:5000/api/models/moreThan  HTTP/1.1
+content-type: application/json
+
+### 
+//  Get some models
+GET http://127.0.0.1:5000/api/models/someModels?models=13&models=galaxy  HTTP/1.1
+content-type: application/json
+
+###
+// Delete some models
+DELETE  http://127.0.0.1:5000/api/models/someModels?models=apple HTTP/1.1
+content-type: application/json
+
+
+### 
+// Update some models 
+PUT http://127.0.0.1:5000/api/models  HTTP/1.1
+content-type: application/json
+
+{
+    "id": 5,
+    "title": "AirPods Pro2",
+    "brand": "Apple",
+    "description": "Noise-canceling wireless earbuds."
+  }

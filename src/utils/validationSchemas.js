@@ -31,12 +31,21 @@ const CATEGORY_BRAND_TYPE_STORE_SCHEMA = yup.object().shape({
 const ORDER_SCHEMA = yup.object().shape({
   code: yup.number().positive().required(),
   date: yup.date().required(),
-  customer: yup.string(),
+  customer: yup.string().min(2),
   amount: yup.number().min(0),
   paid: yup.boolean().required(),
 })
 
+// Models schema
+
+const MODELS_SCHEMA = yup.object().shape({
+  title: TITLE_NAME_SCHEMA,
+  brand: yup.string().min(2).required(),
+  description: DESCRIPTION_SCHEMA,
+})
+
 module.exports = {
+  MODELS_SCHEMA,
   PAGINATION_SCHEMA,
   CUSTOMER_SCHEMA,
   CATEGORY_BRAND_TYPE_STORE_SCHEMA,

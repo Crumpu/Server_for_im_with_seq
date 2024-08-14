@@ -76,7 +76,6 @@ class OrderController {
             },
           })),
         },
-        returning: "id",
         raw: true,
       });
       let arrId = [];
@@ -137,29 +136,24 @@ class OrderController {
     const t = await sequelize.transaction();
     try {
       const { body } = req;
-          const customer = await Customer.findOne({
+      const customer = await Customer.findOne({
         where: {
           name: {
             [Op.iLike]: body.customer,
-          }
-        },
-        raw: true, 
-      })
-      const newBody = await {
-        code: body.code,
-        date: body.date,
-        amount: body.amount,
-        paid: body.paid,
-        customer: customer.id
-      }
-      const updatedOrder = await Order.update(newBody, {
-        where: {
-          id: body.code,
+          },
         },
         raw: true,
+      });
+ 
+      const updatedOrder = await Order.update({
+   ...body, customer: customer.id
+      }, {
+        where: {
+          id: body.id,
+        },
         transaction: t,
       });
-      if (updatedOrder) {
+      if (updatedOrder[0] > 0) {
         console.log(`Result is: ${JSON.stringify(updatedOrder, null, 2)}`);
         res.status(200).json(updatedOrder);
       } else {

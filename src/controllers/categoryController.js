@@ -112,9 +112,8 @@ class CategoryController {
         },
         raw: true,
         transaction: t,
-        returning: ["title", "description"],
       });
-      if (updatedCategory) {
+      if (updatedCategory[0] > 0) {
         console.log(`Result is: ${JSON.stringify(updatedCategory, null, 2)}`);
         res.status(200).json(updatedCategory);
       } else {

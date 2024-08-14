@@ -1,29 +1,30 @@
-//  Get all stores 
+//  Get all orders 
 GET http://127.0.0.1:5000/api/orders  HTTP/1.1
 content-type: application/json
 
 ###
-//  Get all stores where id more than half of the maxnumber.
+//  Get all orders where id more than half of the maxnumber.
 GET http://127.0.0.1:5000/api/orders/moreThan  HTTP/1.1
 content-type: application/json
 
 ### 
-//  Get some stores
+//  Get some orders
 GET http://127.0.0.1:5000/api/orders/someOrders?orders=Smith&orders=Taylor  HTTP/1.1
 content-type: application/json
 
 ###
-// Delete some stores
+// Delete some orders
 DELETE  http://127.0.0.1:5000/api/orders/someOrders  HTTP/1.1
 content-type: application/json
 
 
 ### 
-// Update some stores 
+// Update some orders 
 PUT http://127.0.0.1:5000/api/orders  HTTP/1.1
 content-type: application/json
 
 { 
+  "id": 4,
   "code": 4,
   "date": "2024-08-01T22:45:48.212Z",
   "amount": 656,

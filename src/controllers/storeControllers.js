@@ -114,7 +114,7 @@ class StoreController {
         transaction: t,
         returning: ["title", "description"],
       });
-      if (updatedStore) {
+      if (updatedStore[0] > 0) {
         console.log(`Result is: ${JSON.stringify(updatedStore, null, 2)}`);
         res.status(200).json(updatedStore);
       } else {

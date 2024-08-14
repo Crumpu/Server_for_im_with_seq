@@ -14,6 +14,11 @@ module.exports = (sequelize, DataTypes) => {
         onDelete: "CASCADE",
         onUpdate: "CASCADE",
       });
+      Item_model.belongsTo(models.Brand, {
+        foreignKey: "brand_id",
+        onDelete: "CASCADE",
+        onUpdate: "CASCADE",
+      })
     }
   }
   Item_model.init(

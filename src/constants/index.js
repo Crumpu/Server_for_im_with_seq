@@ -10706,7 +10706,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 2,
       model_id: 11,
       price: 81864,
       store_id: 3,
@@ -10715,7 +10715,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 2,
       model_id: 12,
       price: 6515,
       store_id: 4,
@@ -10724,7 +10724,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 2,
       model_id: 13,
       price: 26775,
       store_id: 4,
@@ -10733,7 +10733,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 2,
       model_id: 14,
       price: 36519,
       store_id: 4,
@@ -10742,7 +10742,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 2,
       model_id: 15,
       price: 32288,
       store_id: 4,
@@ -10751,7 +10751,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 2,
       model_id: 16,
       price: 73108,
       store_id: 4,
@@ -10760,7 +10760,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 2,
       model_id: 17,
       price: 85035,
       store_id: 1,
@@ -10769,7 +10769,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 2,
       model_id: 18,
       price: 73343,
       store_id: 3,
@@ -10778,7 +10778,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 2,
       model_id: 19,
       price: 5129,
       store_id: 2,
@@ -10787,7 +10787,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 2,
       model_id: 20,
       price: 17219,
       store_id: 5,
@@ -10796,7 +10796,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 3,
       model_id: 21,
       price: 44026,
       store_id: 2,
@@ -10805,7 +10805,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 3,
       model_id: 22,
       price: 11200,
       store_id: 2,
@@ -10814,7 +10814,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 3,
       model_id: 23,
       price: 58145,
       store_id: 3,
@@ -10823,7 +10823,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 3,
       model_id: 24,
       price: 81420,
       store_id: 3,
@@ -10832,7 +10832,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 3,
       model_id: 25,
       price: 75850,
       store_id: 2,
@@ -10841,7 +10841,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 3,
       model_id: 26,
       price: 71474,
       store_id: 2,
@@ -10850,7 +10850,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 3,
       model_id: 27,
       price: 16147,
       store_id: 1,
@@ -10859,7 +10859,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 3,
       model_id: 28,
       price: 10734,
       store_id: 2,
@@ -10868,7 +10868,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 3,
       model_id: 29,
       price: 32202,
       store_id: 5,
@@ -10877,7 +10877,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 3,
       model_id: 30,
       price: 96842,
       store_id: 3,
@@ -10886,7 +10886,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 4,
       model_id: 31,
       price: 20937,
       store_id: 1,
@@ -10895,7 +10895,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 4,
       model_id: 32,
       price: 76328,
       store_id: 4,
@@ -10904,7 +10904,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 4,
       model_id: 33,
       price: 18879,
       store_id: 4,
@@ -10913,7 +10913,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 4,
       model_id: 34,
       price: 10310,
       store_id: 5,
@@ -10922,7 +10922,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 4,
       model_id: 35,
       price: 68160,
       store_id: 3,
@@ -10931,7 +10931,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 4,
       model_id: 36,
       price: 65265,
       store_id: 1,
@@ -10940,7 +10940,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 4,
       model_id: 37,
       price: 17139,
       store_id: 3,
@@ -10949,7 +10949,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 4,
       model_id: 38,
       price: 85315,
       store_id: 2,
@@ -10958,7 +10958,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 4,
       model_id: 39,
       price: 84789,
       store_id: 5,
@@ -10967,7 +10967,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 4,
       model_id: 40,
       price: 55977,
       store_id: 4,
@@ -10976,7 +10976,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 5,
       model_id: 41,
       price: 44405,
       store_id: 5,
@@ -10985,7 +10985,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 5,
       model_id: 42,
       price: 59232,
       store_id: 4,
@@ -10994,7 +10994,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 5,
       model_id: 43,
       price: 25159,
       store_id: 5,
@@ -11003,7 +11003,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 5,
       model_id: 44,
       price: 64229,
       store_id: 2,
@@ -11012,7 +11012,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 5,
       model_id: 45,
       price: 6877,
       store_id: 2,
@@ -11021,7 +11021,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 5,
       model_id: 46,
       price: 5,
       store_id: 5,
@@ -11030,7 +11030,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 5,
       model_id: 47,
       price: 23012,
       store_id: 5,
@@ -11039,7 +11039,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 5,
       model_id: 48,
       price: 81716,
       store_id: 2,
@@ -11048,7 +11048,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 5,
       model_id: 49,
       price: 11367,
       store_id: 4,
@@ -11057,7 +11057,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 5,
       model_id: 50,
       price: 97896,
       store_id: 1,
@@ -11066,7 +11066,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 6,
       model_id: 51,
       price: 96568,
       store_id: 2,
@@ -11075,7 +11075,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 6,
       model_id: 52,
       price: 45828,
       store_id: 4,
@@ -11084,7 +11084,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 6,
       model_id: 53,
       price: 79511,
       store_id: 3,
@@ -11093,7 +11093,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 6,
       model_id: 54,
       price: 32290,
       store_id: 1,
@@ -11102,7 +11102,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 6,
       model_id: 55,
       price: 60220,
       store_id: 2,
@@ -11111,7 +11111,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 6,
       model_id: 56,
       price: 38270,
       store_id: 4,
@@ -11120,7 +11120,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 6,
       model_id: 57,
       price: 94974,
       store_id: 3,
@@ -11129,7 +11129,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 6,
       model_id: 58,
       price: 40633,
       store_id: 2,
@@ -11138,7 +11138,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 6,
       model_id: 59,
       price: 94849,
       store_id: 1,
@@ -11147,7 +11147,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 6,
       model_id: 60,
       price: 44110,
       store_id: 1,
@@ -11156,7 +11156,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 7,
       model_id: 61,
       price: 95046,
       store_id: 3,
@@ -11165,7 +11165,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 7,
       model_id: 62,
       price: 61872,
       store_id: 4,
@@ -11174,7 +11174,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 7,
       model_id: 63,
       price: 69387,
       store_id: 4,
@@ -11183,7 +11183,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 7,
       model_id: 64,
       price: 83246,
       store_id: 3,
@@ -11192,7 +11192,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 7,
       model_id: 65,
       price: 4423,
       store_id: 2,
@@ -11201,7 +11201,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 7,
       model_id: 66,
       price: 12635,
       store_id: 1,
@@ -11210,7 +11210,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 7,
       model_id: 67,
       price: 91994,
       store_id: 3,
@@ -11219,7 +11219,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 7,
       model_id: 68,
       price: 97779,
       store_id: 3,
@@ -11228,7 +11228,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 7,
       model_id: 69,
       price: 55547,
       store_id: 2,
@@ -11237,7 +11237,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 7,
       model_id: 70,
       price: 5891,
       store_id: 1,
@@ -11246,7 +11246,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 8,
       model_id: 71,
       price: 53586,
       store_id: 3,
@@ -11255,7 +11255,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 8,
       model_id: 72,
       price: 8589,
       store_id: 4,
@@ -11264,7 +11264,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 8,
       model_id: 73,
       price: 57284,
       store_id: 5,
@@ -11273,7 +11273,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 8,
       model_id: 74,
       price: 90891,
       store_id: 3,
@@ -11282,7 +11282,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 8,
       model_id: 75,
       price: 1615,
       store_id: 2,
@@ -11291,7 +11291,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 8,
       model_id: 76,
       price: 46311,
       store_id: 3,
@@ -11300,7 +11300,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 8,
       model_id: 77,
       price: 1853,
       store_id: 2,
@@ -11309,7 +11309,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 8,
       model_id: 78,
       price: 22609,
       store_id: 5,
@@ -11318,7 +11318,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 8,
       model_id: 79,
       price: 60550,
       store_id: 4,
@@ -11327,7 +11327,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 8,
       model_id: 80,
       price: 96356,
       store_id: 5,
@@ -11336,7 +11336,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 9,
       model_id: 81,
       price: 63422,
       store_id: 3,
@@ -11345,7 +11345,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 9,
       model_id: 82,
       price: 90020,
       store_id: 1,
@@ -11354,7 +11354,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 9,
       model_id: 83,
       price: 60479,
       store_id: 2,
@@ -11363,7 +11363,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 9,
       model_id: 84,
       price: 44253,
       store_id: 2,
@@ -11372,7 +11372,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 9,
       model_id: 85,
       price: 46070,
       store_id: 2,
@@ -11381,7 +11381,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 9,
       model_id: 86,
       price: 42041,
       store_id: 3,
@@ -11390,7 +11390,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 9,
       model_id: 87,
       price: 85019,
       store_id: 1,
@@ -11399,7 +11399,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 9,
       model_id: 88,
       price: 90792,
       store_id: 1,
@@ -11408,7 +11408,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 9,
       model_id: 89,
       price: 48695,
       store_id: 5,
@@ -11417,7 +11417,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 9,
       model_id: 90,
       price: 67256,
       store_id: 1,
@@ -11426,7 +11426,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 10,
       model_id: 91,
       price: 70427,
       store_id: 3,
@@ -11435,7 +11435,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 10,
       model_id: 92,
       price: 54443,
       store_id: 1,
@@ -11444,7 +11444,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 10,
       model_id: 93,
       price: 44722,
       store_id: 3,
@@ -11453,7 +11453,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 3,
-      brand_id: 1,
+      brand_id: 10,
       model_id: 94,
       price: 20371,
       store_id: 2,
@@ -11462,7 +11462,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 1,
-      brand_id: 1,
+      brand_id: 10,
       model_id: 95,
       price: 96632,
       store_id: 2,
@@ -11471,7 +11471,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 10,
       model_id: 96,
       price: 68933,
       store_id: 3,
@@ -11480,7 +11480,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 10,
       model_id: 97,
       price: 81650,
       store_id: 2,
@@ -11489,7 +11489,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 10,
       model_id: 98,
       price: 95794,
       store_id: 1,
@@ -11498,7 +11498,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 10,
       model_id: 99,
       price: 56005,
       store_id: 1,
@@ -11507,7 +11507,7 @@ module.exports = {
     {
       categ_id: 1,
       type_id: 2,
-      brand_id: 1,
+      brand_id: 10,
       model_id: 100,
       price: 1875,
       store_id: 3,
@@ -11516,7 +11516,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 11,
       model_id: 101,
       price: 27216,
       store_id: 4,
@@ -11525,7 +11525,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 11,
       model_id: 102,
       price: 35286,
       store_id: 1,
@@ -11534,7 +11534,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 11,
       model_id: 103,
       price: 68138,
       store_id: 4,
@@ -11543,7 +11543,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 11,
       model_id: 104,
       price: 81715,
       store_id: 3,
@@ -11552,7 +11552,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 11,
       model_id: 105,
       price: 81524,
       store_id: 3,
@@ -11561,7 +11561,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 11,
       model_id: 106,
       price: 73519,
       store_id: 4,
@@ -11570,7 +11570,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 11,
       model_id: 107,
       price: 73958,
       store_id: 5,
@@ -11579,7 +11579,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 11,
       model_id: 108,
       price: 41069,
       store_id: 2,
@@ -11588,7 +11588,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 11,
       model_id: 109,
       price: 61191,
       store_id: 3,
@@ -11597,7 +11597,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 11,
       model_id: 110,
       price: 88683,
       store_id: 2,
@@ -11606,7 +11606,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 12,
       model_id: 111,
       price: 97002,
       store_id: 2,
@@ -11615,7 +11615,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 12,
       model_id: 112,
       price: 67689,
       store_id: 1,
@@ -11624,7 +11624,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 12,
       model_id: 113,
       price: 4485,
       store_id: 1,
@@ -11633,7 +11633,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 12,
       model_id: 114,
       price: 73838,
       store_id: 1,
@@ -11642,7 +11642,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 12,
       model_id: 115,
       price: 21887,
       store_id: 5,
@@ -11651,7 +11651,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 12,
       model_id: 116,
       price: 66769,
       store_id: 4,
@@ -11660,7 +11660,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 12,
       model_id: 117,
       price: 86077,
       store_id: 3,
@@ -11669,7 +11669,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 12,
       model_id: 118,
       price: 63125,
       store_id: 3,
@@ -11678,7 +11678,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 12,
       model_id: 119,
       price: 46933,
       store_id: 5,
@@ -11687,7 +11687,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 12,
       model_id: 120,
       price: 88682,
       store_id: 2,
@@ -11696,7 +11696,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 13,
       model_id: 121,
       price: 58621,
       store_id: 5,
@@ -11705,7 +11705,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 13,
       model_id: 122,
       price: 97056,
       store_id: 3,
@@ -11714,7 +11714,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 13,
       model_id: 123,
       price: 20790,
       store_id: 5,
@@ -11723,7 +11723,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 13,
       model_id: 124,
       price: 92708,
       store_id: 5,
@@ -11732,7 +11732,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 13,
       model_id: 125,
       price: 57294,
       store_id: 2,
@@ -11741,7 +11741,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 13,
       model_id: 126,
       price: 43902,
       store_id: 2,
@@ -11750,7 +11750,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 13,
       model_id: 127,
       price: 96699,
       store_id: 2,
@@ -11759,7 +11759,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 13,
       model_id: 128,
       price: 84457,
       store_id: 5,
@@ -11768,7 +11768,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 13,
       model_id: 129,
       price: 93330,
       store_id: 3,
@@ -11777,7 +11777,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 13,
       model_id: 130,
       price: 23391,
       store_id: 1,
@@ -11786,7 +11786,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 14,
       model_id: 131,
       price: 15255,
       store_id: 1,
@@ -11795,7 +11795,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 14,
       model_id: 132,
       price: 50035,
       store_id: 2,
@@ -11804,7 +11804,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 14,
       model_id: 133,
       price: 87707,
       store_id: 3,
@@ -11813,7 +11813,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 14,
       model_id: 134,
       price: 71696,
       store_id: 4,
@@ -11822,7 +11822,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 14,
       model_id: 135,
       price: 68979,
       store_id: 4,
@@ -11831,7 +11831,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 14,
       model_id: 136,
       price: 96128,
       store_id: 5,
@@ -11840,7 +11840,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 14,
       model_id: 137,
       price: 29512,
       store_id: 5,
@@ -11849,7 +11849,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 14,
       model_id: 138,
       price: 30628,
       store_id: 2,
@@ -11858,7 +11858,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 14,
       model_id: 139,
       price: 10888,
       store_id: 3,
@@ -11867,7 +11867,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 14,
       model_id: 140,
       price: 41772,
       store_id: 1,
@@ -11876,7 +11876,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 15,
       model_id: 141,
       price: 60278,
       store_id: 2,
@@ -11885,7 +11885,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 15,
       model_id: 142,
       price: 93408,
       store_id: 1,
@@ -11894,7 +11894,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 15,
       model_id: 143,
       price: 18211,
       store_id: 5,
@@ -11903,7 +11903,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 15,
       model_id: 144,
       price: 41922,
       store_id: 5,
@@ -11912,7 +11912,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 15,
       model_id: 145,
       price: 80142,
       store_id: 3,
@@ -11921,7 +11921,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 15,
       model_id: 146,
       price: 50777,
       store_id: 4,
@@ -11930,7 +11930,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 15,
       model_id: 147,
       price: 27089,
       store_id: 1,
@@ -11939,7 +11939,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 15,
       model_id: 148,
       price: 16701,
       store_id: 1,
@@ -11948,7 +11948,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 15,
       model_id: 149,
       price: 65693,
       store_id: 1,
@@ -11957,7 +11957,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 15,
       model_id: 150,
       price: 28464,
       store_id: 2,
@@ -11966,7 +11966,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 16,
       model_id: 151,
       price: 42033,
       store_id: 3,
@@ -11975,7 +11975,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 16,
       model_id: 152,
       price: 48740,
       store_id: 4,
@@ -11984,7 +11984,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 16,
       model_id: 153,
       price: 82002,
       store_id: 3,
@@ -11993,7 +11993,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 16,
       model_id: 154,
       price: 33926,
       store_id: 4,
@@ -12002,7 +12002,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 16,
       model_id: 155,
       price: 18376,
       store_id: 1,
@@ -12011,7 +12011,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 16,
       model_id: 156,
       price: 56853,
       store_id: 4,
@@ -12020,7 +12020,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 16,
       model_id: 157,
       price: 47258,
       store_id: 5,
@@ -12029,7 +12029,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 16,
       model_id: 158,
       price: 60285,
       store_id: 2,
@@ -12038,7 +12038,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 16,
       model_id: 159,
       price: 3322,
       store_id: 1,
@@ -12047,7 +12047,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 16,
       model_id: 160,
       price: 65960,
       store_id: 3,
@@ -12056,7 +12056,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 17,
       model_id: 161,
       price: 46924,
       store_id: 4,
@@ -12065,7 +12065,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 17,
       model_id: 162,
       price: 31863,
       store_id: 2,
@@ -12074,7 +12074,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 17,
       model_id: 163,
       price: 62651,
       store_id: 1,
@@ -12083,7 +12083,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 17,
       model_id: 164,
       price: 32675,
       store_id: 1,
@@ -12092,7 +12092,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 17,
       model_id: 165,
       price: 59252,
       store_id: 4,
@@ -12101,7 +12101,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 17,
       model_id: 166,
       price: 19937,
       store_id: 2,
@@ -12110,7 +12110,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 17,
       model_id: 167,
       price: 70212,
       store_id: 2,
@@ -12119,7 +12119,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 17,
       model_id: 168,
       price: 96800,
       store_id: 4,
@@ -12128,7 +12128,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 17,
       model_id: 169,
       price: 56449,
       store_id: 4,
@@ -12137,7 +12137,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 17,
       model_id: 170,
       price: 80011,
       store_id: 2,
@@ -12146,7 +12146,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 18,
       model_id: 171,
       price: 39454,
       store_id: 1,
@@ -12155,7 +12155,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 18,
       model_id: 172,
       price: 8949,
       store_id: 1,
@@ -12164,7 +12164,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 18,
       model_id: 173,
       price: 44590,
       store_id: 2,
@@ -12173,7 +12173,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 18,
       model_id: 174,
       price: 53165,
       store_id: 5,
@@ -12182,7 +12182,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 18,
       model_id: 175,
       price: 54987,
       store_id: 1,
@@ -12191,7 +12191,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 18,
       model_id: 176,
       price: 10754,
       store_id: 1,
@@ -12200,7 +12200,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 18,
       model_id: 177,
       price: 41238,
       store_id: 5,
@@ -12209,7 +12209,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 18,
       model_id: 178,
       price: 63525,
       store_id: 2,
@@ -12218,7 +12218,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 18,
       model_id: 179,
       price: 65009,
       store_id: 2,
@@ -12227,7 +12227,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 18,
       model_id: 180,
       price: 65139,
       store_id: 2,
@@ -12236,7 +12236,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 19,
       model_id: 181,
       price: 2253,
       store_id: 2,
@@ -12245,7 +12245,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 19,
       model_id: 182,
       price: 97280,
       store_id: 1,
@@ -12254,7 +12254,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 19,
       model_id: 183,
       price: 87495,
       store_id: 5,
@@ -12263,7 +12263,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 19,
       model_id: 184,
       price: 85639,
       store_id: 3,
@@ -12272,7 +12272,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 19,
       model_id: 185,
       price: 92072,
       store_id: 1,
@@ -12281,7 +12281,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 19,
       model_id: 186,
       price: 92134,
       store_id: 3,
@@ -12290,7 +12290,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 19,
       model_id: 187,
       price: 35734,
       store_id: 2,
@@ -12299,7 +12299,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 19,
       model_id: 188,
       price: 18018,
       store_id: 4,
@@ -12308,7 +12308,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 19,
       model_id: 189,
       price: 12823,
       store_id: 2,
@@ -12317,7 +12317,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 19,
       model_id: 190,
       price: 94642,
       store_id: 1,
@@ -12326,7 +12326,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 20,
       model_id: 191,
       price: 52887,
       store_id: 5,
@@ -12335,7 +12335,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 20,
       model_id: 192,
       price: 44545,
       store_id: 4,
@@ -12344,7 +12344,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 20,
       model_id: 193,
       price: 18158,
       store_id: 4,
@@ -12353,7 +12353,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 20,
       model_id: 194,
       price: 18691,
       store_id: 5,
@@ -12362,7 +12362,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 20,
       model_id: 195,
       price: 14360,
       store_id: 1,
@@ -12371,7 +12371,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 20,
       model_id: 196,
       price: 53767,
       store_id: 2,
@@ -12380,7 +12380,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 20,
       model_id: 197,
       price: 82120,
       store_id: 4,
@@ -12389,7 +12389,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 4,
-      brand_id: 1,
+      brand_id: 20,
       model_id: 198,
       price: 82215,
       store_id: 2,
@@ -12398,7 +12398,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 6,
-      brand_id: 1,
+      brand_id: 20,
       model_id: 199,
       price: 48742,
       store_id: 3,
@@ -12407,7 +12407,7 @@ module.exports = {
     {
       categ_id: 2,
       type_id: 5,
-      brand_id: 1,
+      brand_id: 20,
       model_id: 200,
       price: 95222,
       store_id: 3,
@@ -12416,7 +12416,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 21,
       model_id: 201,
       price: 28496,
       store_id: 2,
@@ -12425,7 +12425,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 21,
       model_id: 202,
       price: 27793,
       store_id: 2,
@@ -12434,7 +12434,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 21,
       model_id: 203,
       price: 9302,
       store_id: 2,
@@ -12443,7 +12443,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 21,
       model_id: 204,
       price: 9570,
       store_id: 2,
@@ -12452,7 +12452,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 21,
       model_id: 205,
       price: 31512,
       store_id: 1,
@@ -12461,7 +12461,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 21,
       model_id: 206,
       price: 51938,
       store_id: 1,
@@ -12470,7 +12470,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 21,
       model_id: 207,
       price: 4751,
       store_id: 2,
@@ -12479,7 +12479,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 21,
       model_id: 208,
       price: 7819,
       store_id: 3,
@@ -12488,7 +12488,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 21,
       model_id: 209,
       price: 68775,
       store_id: 3,
@@ -12497,7 +12497,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 21,
       model_id: 210,
       price: 32033,
       store_id: 2,
@@ -12506,7 +12506,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 22,
       model_id: 211,
       price: 52738,
       store_id: 5,
@@ -12515,7 +12515,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 22,
       model_id: 212,
       price: 20493,
       store_id: 4,
@@ -12524,7 +12524,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 22,
       model_id: 213,
       price: 26178,
       store_id: 1,
@@ -12533,7 +12533,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 22,
       model_id: 214,
       price: 83202,
       store_id: 4,
@@ -12542,7 +12542,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 22,
       model_id: 215,
       price: 3694,
       store_id: 4,
@@ -12551,7 +12551,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 22,
       model_id: 216,
       price: 16754,
       store_id: 2,
@@ -12560,7 +12560,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 22,
       model_id: 217,
       price: 58460,
       store_id: 1,
@@ -12569,7 +12569,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 22,
       model_id: 218,
       price: 68380,
       store_id: 5,
@@ -12578,7 +12578,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 22,
       model_id: 219,
       price: 4343,
       store_id: 2,
@@ -12587,7 +12587,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 22,
       model_id: 220,
       price: 49578,
       store_id: 2,
@@ -12596,7 +12596,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 23,
       model_id: 221,
       price: 58439,
       store_id: 5,
@@ -12605,7 +12605,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 23,
       model_id: 222,
       price: 10502,
       store_id: 4,
@@ -12614,7 +12614,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 23,
       model_id: 223,
       price: 16451,
       store_id: 4,
@@ -12623,7 +12623,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 23,
       model_id: 224,
       price: 85363,
       store_id: 1,
@@ -12632,7 +12632,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 23,
       model_id: 225,
       price: 63986,
       store_id: 4,
@@ -12641,7 +12641,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 23,
       model_id: 226,
       price: 40511,
       store_id: 5,
@@ -12650,7 +12650,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 23,
       model_id: 227,
       price: 76192,
       store_id: 5,
@@ -12659,7 +12659,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 23,
       model_id: 228,
       price: 77473,
       store_id: 1,
@@ -12668,7 +12668,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 23,
       model_id: 229,
       price: 57802,
       store_id: 5,
@@ -12677,7 +12677,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 23,
       model_id: 230,
       price: 21347,
       store_id: 1,
@@ -12686,7 +12686,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 24,
       model_id: 231,
       price: 89490,
       store_id: 1,
@@ -12695,7 +12695,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 24,
       model_id: 232,
       price: 50061,
       store_id: 1,
@@ -12704,7 +12704,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 24,
       model_id: 233,
       price: 65127,
       store_id: 2,
@@ -12713,7 +12713,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 24,
       model_id: 234,
       price: 16942,
       store_id: 5,
@@ -12722,7 +12722,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 24,
       model_id: 235,
       price: 55383,
       store_id: 4,
@@ -12731,7 +12731,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 24,
       model_id: 236,
       price: 2652,
       store_id: 2,
@@ -12740,7 +12740,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 24,
       model_id: 237,
       price: 39835,
       store_id: 5,
@@ -12749,7 +12749,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 24,
       model_id: 238,
       price: 82801,
       store_id: 5,
@@ -12758,7 +12758,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 24,
       model_id: 239,
       price: 20132,
       store_id: 4,
@@ -12767,7 +12767,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 24,
       model_id: 240,
       price: 78182,
       store_id: 2,
@@ -12776,7 +12776,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 25,
       model_id: 241,
       price: 11240,
       store_id: 3,
@@ -12785,7 +12785,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 25,
       model_id: 242,
       price: 2765,
       store_id: 5,
@@ -12794,7 +12794,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 25,
       model_id: 243,
       price: 1322,
       store_id: 4,
@@ -12803,7 +12803,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 25,
       model_id: 244,
       price: 30842,
       store_id: 4,
@@ -12812,7 +12812,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 25,
       model_id: 245,
       price: 1376,
       store_id: 4,
@@ -12821,7 +12821,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 25,
       model_id: 246,
       price: 93260,
       store_id: 3,
@@ -12830,7 +12830,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 25,
       model_id: 247,
       price: 94248,
       store_id: 5,
@@ -12839,7 +12839,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 25,
       model_id: 248,
       price: 80249,
       store_id: 2,
@@ -12848,7 +12848,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 25,
       model_id: 249,
       price: 15963,
       store_id: 3,
@@ -12857,7 +12857,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 25,
       model_id: 250,
       price: 45278,
       store_id: 3,
@@ -12866,7 +12866,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 26,
       model_id: 251,
       price: 47538,
       store_id: 2,
@@ -12875,7 +12875,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 26,
       model_id: 252,
       price: 10082,
       store_id: 2,
@@ -12884,7 +12884,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 26,
       model_id: 253,
       price: 62618,
       store_id: 5,
@@ -12893,7 +12893,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 26,
       model_id: 254,
       price: 98770,
       store_id: 1,
@@ -12902,7 +12902,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 26,
       model_id: 255,
       price: 65070,
       store_id: 3,
@@ -12911,7 +12911,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 26,
       model_id: 256,
       price: 71042,
       store_id: 1,
@@ -12920,7 +12920,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 26,
       model_id: 257,
       price: 93467,
       store_id: 1,
@@ -12929,7 +12929,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 26,
       model_id: 258,
       price: 46006,
       store_id: 3,
@@ -12938,7 +12938,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 26,
       model_id: 259,
       price: 79300,
       store_id: 4,
@@ -12947,7 +12947,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 26,
       model_id: 260,
       price: 71786,
       store_id: 2,
@@ -12956,7 +12956,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 27,
       model_id: 261,
       price: 84998,
       store_id: 3,
@@ -12965,7 +12965,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 27,
       model_id: 262,
       price: 71461,
       store_id: 1,
@@ -12974,7 +12974,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 27,
       model_id: 263,
       price: 63649,
       store_id: 3,
@@ -12983,7 +12983,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 27,
       model_id: 264,
       price: 84370,
       store_id: 4,
@@ -12992,7 +12992,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 27,
       model_id: 265,
       price: 73969,
       store_id: 1,
@@ -13001,7 +13001,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 27,
       model_id: 266,
       price: 78759,
       store_id: 4,
@@ -13010,7 +13010,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 27,
       model_id: 267,
       price: 18800,
       store_id: 2,
@@ -13019,7 +13019,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 27,
       model_id: 268,
       price: 13427,
       store_id: 4,
@@ -13028,7 +13028,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 27,
       model_id: 269,
       price: 39227,
       store_id: 4,
@@ -13037,7 +13037,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 27,
       model_id: 270,
       price: 78415,
       store_id: 4,
@@ -13046,7 +13046,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 28,
       model_id: 271,
       price: 50549,
       store_id: 2,
@@ -13055,7 +13055,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 28,
       model_id: 272,
       price: 3173,
       store_id: 4,
@@ -13064,7 +13064,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 28,
       model_id: 273,
       price: 5233,
       store_id: 2,
@@ -13073,7 +13073,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 28,
       model_id: 274,
       price: 26024,
       store_id: 3,
@@ -13082,7 +13082,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 28,
       model_id: 275,
       price: 34121,
       store_id: 3,
@@ -13091,7 +13091,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 28,
       model_id: 276,
       price: 41481,
       store_id: 2,
@@ -13100,7 +13100,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 28,
       model_id: 277,
       price: 42625,
       store_id: 4,
@@ -13109,7 +13109,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 28,
       model_id: 278,
       price: 17244,
       store_id: 1,
@@ -13118,7 +13118,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 28,
       model_id: 279,
       price: 59949,
       store_id: 1,
@@ -13127,7 +13127,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 28,
       model_id: 280,
       price: 2998,
       store_id: 1,
@@ -13136,7 +13136,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 29,
       model_id: 281,
       price: 20809,
       store_id: 5,
@@ -13145,7 +13145,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 29,
       model_id: 282,
       price: 66612,
       store_id: 1,
@@ -13154,7 +13154,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 29,
       model_id: 283,
       price: 98283,
       store_id: 4,
@@ -13163,7 +13163,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 29,
       model_id: 284,
       price: 1429,
       store_id: 4,
@@ -13172,7 +13172,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 29,
       model_id: 285,
       price: 34265,
       store_id: 4,
@@ -13181,7 +13181,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 29,
       model_id: 286,
       price: 93952,
       store_id: 3,
@@ -13190,7 +13190,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 29,
       model_id: 287,
       price: 36208,
       store_id: 1,
@@ -13199,7 +13199,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 29,
       model_id: 288,
       price: 11026,
       store_id: 1,
@@ -13208,7 +13208,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 29,
       model_id: 289,
       price: 80782,
       store_id: 5,
@@ -13217,7 +13217,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 29,
       model_id: 290,
       price: 33559,
       store_id: 1,
@@ -13226,7 +13226,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 30,
       model_id: 291,
       price: 15337,
       store_id: 2,
@@ -13235,7 +13235,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 30,
       model_id: 292,
       price: 72214,
       store_id: 1,
@@ -13244,7 +13244,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 30,
       model_id: 293,
       price: 71911,
       store_id: 3,
@@ -13253,7 +13253,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 30,
       model_id: 294,
       price: 12645,
       store_id: 1,
@@ -13262,7 +13262,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 30,
       model_id: 295,
       price: 51359,
       store_id: 1,
@@ -13271,7 +13271,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 30,
       model_id: 296,
       price: 66149,
       store_id: 3,
@@ -13280,7 +13280,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 7,
-      brand_id: 1,
+      brand_id: 30,
       model_id: 297,
       price: 91939,
       store_id: 2,
@@ -13289,7 +13289,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 9,
-      brand_id: 1,
+      brand_id: 30,
       model_id: 298,
       price: 22559,
       store_id: 4,
@@ -13298,7 +13298,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 30,
       model_id: 299,
       price: 1589,
       store_id: 1,
@@ -13307,7 +13307,7 @@ module.exports = {
     {
       categ_id: 3,
       type_id: 8,
-      brand_id: 1,
+      brand_id: 30,
       model_id: 300,
       price: 52092,
       store_id: 4,
@@ -13316,7 +13316,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 31,
       model_id: 301,
       price: 14457,
       store_id: 3,
@@ -13325,7 +13325,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 31,
       model_id: 302,
       price: 45793,
       store_id: 3,
@@ -13334,7 +13334,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 31,
       model_id: 303,
       price: 43516,
       store_id: 1,
@@ -13343,7 +13343,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 31,
       model_id: 304,
       price: 66408,
       store_id: 1,
@@ -13352,7 +13352,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 31,
       model_id: 305,
       price: 33205,
       store_id: 1,
@@ -13361,7 +13361,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 31,
       model_id: 306,
       price: 53312,
       store_id: 5,
@@ -13370,7 +13370,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 31,
       model_id: 307,
       price: 53079,
       store_id: 2,
@@ -13379,7 +13379,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 31,
       model_id: 308,
       price: 14033,
       store_id: 2,
@@ -13388,7 +13388,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 31,
       model_id: 309,
       price: 60337,
       store_id: 5,
@@ -13397,7 +13397,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 31,
       model_id: 310,
       price: 1158,
       store_id: 5,
@@ -13406,7 +13406,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 32,
       model_id: 311,
       price: 3120,
       store_id: 1,
@@ -13415,7 +13415,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 32,
       model_id: 312,
       price: 58632,
       store_id: 5,
@@ -13424,7 +13424,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 32,
       model_id: 313,
       price: 53189,
       store_id: 3,
@@ -13433,7 +13433,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 32,
       model_id: 314,
       price: 64604,
       store_id: 1,
@@ -13442,7 +13442,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 32,
       model_id: 315,
       price: 68005,
       store_id: 3,
@@ -13451,7 +13451,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 32,
       model_id: 316,
       price: 84004,
       store_id: 2,
@@ -13460,7 +13460,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 32,
       model_id: 317,
       price: 18453,
       store_id: 5,
@@ -13469,7 +13469,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 32,
       model_id: 318,
       price: 65080,
       store_id: 4,
@@ -13478,7 +13478,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 32,
       model_id: 319,
       price: 76792,
       store_id: 1,
@@ -13487,7 +13487,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 32,
       model_id: 320,
       price: 1681,
       store_id: 3,
@@ -13496,7 +13496,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 33,
       model_id: 321,
       price: 30646,
       store_id: 4,
@@ -13505,7 +13505,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 33,
       model_id: 322,
       price: 38105,
       store_id: 5,
@@ -13514,7 +13514,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 33,
       model_id: 323,
       price: 75797,
       store_id: 4,
@@ -13523,7 +13523,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 33,
       model_id: 324,
       price: 38956,
       store_id: 2,
@@ -13532,7 +13532,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 33,
       model_id: 325,
       price: 10078,
       store_id: 3,
@@ -13541,7 +13541,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 33,
       model_id: 326,
       price: 74330,
       store_id: 3,
@@ -13550,7 +13550,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 33,
       model_id: 327,
       price: 92092,
       store_id: 2,
@@ -13559,7 +13559,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 33,
       model_id: 328,
       price: 1643,
       store_id: 3,
@@ -13568,7 +13568,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 33,
       model_id: 329,
       price: 91560,
       store_id: 2,
@@ -13577,7 +13577,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 33,
       model_id: 330,
       price: 49239,
       store_id: 4,
@@ -13586,7 +13586,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 34,
       model_id: 331,
       price: 59755,
       store_id: 3,
@@ -13595,7 +13595,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 34,
       model_id: 332,
       price: 89432,
       store_id: 2,
@@ -13604,7 +13604,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 34,
       model_id: 333,
       price: 3732,
       store_id: 3,
@@ -13613,7 +13613,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 34,
       model_id: 334,
       price: 41834,
       store_id: 1,
@@ -13622,7 +13622,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 34,
       model_id: 335,
       price: 39998,
       store_id: 1,
@@ -13631,7 +13631,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 34,
       model_id: 336,
       price: 21730,
       store_id: 5,
@@ -13640,7 +13640,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 34,
       model_id: 337,
       price: 93563,
       store_id: 1,
@@ -13649,7 +13649,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 34,
       model_id: 338,
       price: 29526,
       store_id: 4,
@@ -13658,7 +13658,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 34,
       model_id: 339,
       price: 97288,
       store_id: 5,
@@ -13667,7 +13667,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 34,
       model_id: 340,
       price: 49935,
       store_id: 4,
@@ -13676,7 +13676,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 35,
       model_id: 341,
       price: 16082,
       store_id: 1,
@@ -13685,7 +13685,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 35,
       model_id: 342,
       price: 33022,
       store_id: 2,
@@ -13694,7 +13694,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 35,
       model_id: 343,
       price: 38063,
       store_id: 3,
@@ -13703,7 +13703,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 35,
       model_id: 344,
       price: 77168,
       store_id: 4,
@@ -13712,7 +13712,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 35,
       model_id: 345,
       price: 8166,
       store_id: 3,
@@ -13721,7 +13721,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 35,
       model_id: 346,
       price: 30372,
       store_id: 1,
@@ -13730,7 +13730,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 35,
       model_id: 347,
       price: 13271,
       store_id: 3,
@@ -13739,7 +13739,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 35,
       model_id: 348,
       price: 15047,
       store_id: 1,
@@ -13748,7 +13748,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 35,
       model_id: 349,
       price: 73439,
       store_id: 2,
@@ -13757,7 +13757,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 35,
       model_id: 350,
       price: 95258,
       store_id: 2,
@@ -13766,7 +13766,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 36,
       model_id: 351,
       price: 57306,
       store_id: 3,
@@ -13775,7 +13775,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 36,
       model_id: 352,
       price: 82057,
       store_id: 2,
@@ -13784,7 +13784,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 36,
       model_id: 353,
       price: 81955,
       store_id: 3,
@@ -13793,7 +13793,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 36,
       model_id: 354,
       price: 45109,
       store_id: 5,
@@ -13802,7 +13802,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 36,
       model_id: 355,
       price: 1033,
       store_id: 2,
@@ -13811,7 +13811,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 36,
       model_id: 356,
       price: 22152,
       store_id: 4,
@@ -13820,7 +13820,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 36,
       model_id: 357,
       price: 99739,
       store_id: 5,
@@ -13829,7 +13829,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 36,
       model_id: 358,
       price: 76747,
       store_id: 3,
@@ -13838,7 +13838,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 36,
       model_id: 359,
       price: 81868,
       store_id: 4,
@@ -13847,7 +13847,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 36,
       model_id: 360,
       price: 75177,
       store_id: 1,
@@ -13856,7 +13856,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 37,
       model_id: 361,
       price: 35438,
       store_id: 3,
@@ -13865,7 +13865,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 37,
       model_id: 362,
       price: 59561,
       store_id: 3,
@@ -13874,7 +13874,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 37,
       model_id: 363,
       price: 33970,
       store_id: 3,
@@ -13883,7 +13883,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 37,
       model_id: 364,
       price: 67133,
       store_id: 2,
@@ -13892,7 +13892,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 37,
       model_id: 365,
       price: 70418,
       store_id: 4,
@@ -13901,7 +13901,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 37,
       model_id: 366,
       price: 73758,
       store_id: 1,
@@ -13910,7 +13910,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 37,
       model_id: 367,
       price: 80119,
       store_id: 4,
@@ -13919,7 +13919,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 37,
       model_id: 368,
       price: 45139,
       store_id: 5,
@@ -13928,7 +13928,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 37,
       model_id: 369,
       price: 3396,
       store_id: 3,
@@ -13937,7 +13937,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 37,
       model_id: 370,
       price: 76753,
       store_id: 4,
@@ -13946,7 +13946,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 38,
       model_id: 371,
       price: 33469,
       store_id: 3,
@@ -13955,7 +13955,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 38,
       model_id: 372,
       price: 99738,
       store_id: 4,
@@ -13964,7 +13964,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 38,
       model_id: 373,
       price: 83961,
       store_id: 5,
@@ -13973,7 +13973,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 38,
       model_id: 374,
       price: 30413,
       store_id: 5,
@@ -13982,7 +13982,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 38,
       model_id: 375,
       price: 12296,
       store_id: 3,
@@ -13991,7 +13991,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 38,
       model_id: 376,
       price: 54635,
       store_id: 4,
@@ -14000,7 +14000,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 38,
       model_id: 377,
       price: 10175,
       store_id: 1,
@@ -14009,7 +14009,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 38,
       model_id: 378,
       price: 97494,
       store_id: 3,
@@ -14018,7 +14018,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 38,
       model_id: 379,
       price: 33885,
       store_id: 1,
@@ -14027,7 +14027,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 38,
       model_id: 380,
       price: 99229,
       store_id: 4,
@@ -14036,7 +14036,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 39,
       model_id: 381,
       price: 47263,
       store_id: 1,
@@ -14045,7 +14045,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 39,
       model_id: 382,
       price: 32429,
       store_id: 1,
@@ -14054,7 +14054,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 39,
       model_id: 383,
       price: 16924,
       store_id: 3,
@@ -14063,7 +14063,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 39,
       model_id: 384,
       price: 86138,
       store_id: 5,
@@ -14072,7 +14072,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 39,
       model_id: 385,
       price: 67301,
       store_id: 2,
@@ -14081,7 +14081,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 39,
       model_id: 386,
       price: 8375,
       store_id: 4,
@@ -14090,7 +14090,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 39,
       model_id: 387,
       price: 9981,
       store_id: 3,
@@ -14099,7 +14099,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 39,
       model_id: 388,
       price: 80787,
       store_id: 1,
@@ -14108,7 +14108,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 39,
       model_id: 389,
       price: 918,
       store_id: 4,
@@ -14117,7 +14117,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 39,
       model_id: 390,
       price: 3673,
       store_id: 1,
@@ -14126,7 +14126,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 40,
       model_id: 391,
       price: 21571,
       store_id: 3,
@@ -14135,7 +14135,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 12,
-      brand_id: 1,
+      brand_id: 40,
       model_id: 392,
       price: 91729,
       store_id: 5,
@@ -14144,7 +14144,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 40,
       model_id: 393,
       price: 96496,
       store_id: 5,
@@ -14153,7 +14153,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 40,
       model_id: 394,
       price: 94483,
       store_id: 4,
@@ -14162,7 +14162,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 40,
       model_id: 395,
       price: 5801,
       store_id: 2,
@@ -14171,7 +14171,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 11,
-      brand_id: 1,
+      brand_id: 40,
       model_id: 396,
       price: 56572,
       store_id: 3,
@@ -14180,7 +14180,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 40,
       model_id: 397,
       price: 94150,
       store_id: 1,
@@ -14189,7 +14189,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 40,
       model_id: 398,
       price: 25772,
       store_id: 2,
@@ -14198,7 +14198,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 40,
       model_id: 399,
       price: 93203,
       store_id: 5,
@@ -14207,7 +14207,7 @@ module.exports = {
     {
       categ_id: 4,
       type_id: 10,
-      brand_id: 1,
+      brand_id: 40,
       model_id: 400,
       price: 75399,
       store_id: 1,
@@ -14216,7 +14216,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 41,
       model_id: 401,
       price: 91045,
       store_id: 4,
@@ -14225,7 +14225,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 41,
       model_id: 402,
       price: 84875,
       store_id: 2,
@@ -14234,7 +14234,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 41,
       model_id: 403,
       price: 36470,
       store_id: 5,
@@ -14243,7 +14243,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 41,
       model_id: 404,
       price: 81357,
       store_id: 4,
@@ -14252,7 +14252,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 41,
       model_id: 405,
       price: 6467,
       store_id: 4,
@@ -14261,7 +14261,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 41,
       model_id: 406,
       price: 96719,
       store_id: 5,
@@ -14270,7 +14270,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 41,
       model_id: 407,
       price: 75388,
       store_id: 1,
@@ -14279,7 +14279,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 41,
       model_id: 408,
       price: 84512,
       store_id: 3,
@@ -14288,7 +14288,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 41,
       model_id: 409,
       price: 459,
       store_id: 1,
@@ -14297,7 +14297,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 41,
       model_id: 410,
       price: 42929,
       store_id: 1,
@@ -14306,7 +14306,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 42,
       model_id: 411,
       price: 4344,
       store_id: 3,
@@ -14315,7 +14315,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 42,
       model_id: 412,
       price: 55482,
       store_id: 3,
@@ -14324,7 +14324,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 42,
       model_id: 413,
       price: 78944,
       store_id: 2,
@@ -14333,7 +14333,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 42,
       model_id: 414,
       price: 18088,
       store_id: 4,
@@ -14342,7 +14342,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 42,
       model_id: 415,
       price: 48845,
       store_id: 2,
@@ -14351,7 +14351,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 42,
       model_id: 416,
       price: 88734,
       store_id: 5,
@@ -14360,7 +14360,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 42,
       model_id: 417,
       price: 431,
       store_id: 2,
@@ -14369,7 +14369,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 42,
       model_id: 418,
       price: 64906,
       store_id: 5,
@@ -14378,7 +14378,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 42,
       model_id: 419,
       price: 52614,
       store_id: 3,
@@ -14387,7 +14387,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 42,
       model_id: 420,
       price: 98650,
       store_id: 4,
@@ -14396,7 +14396,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 43,
       model_id: 421,
       price: 39915,
       store_id: 5,
@@ -14405,7 +14405,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 43,
       model_id: 422,
       price: 38023,
       store_id: 3,
@@ -14414,7 +14414,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 43,
       model_id: 423,
       price: 61676,
       store_id: 2,
@@ -14423,7 +14423,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 43,
       model_id: 424,
       price: 12178,
       store_id: 1,
@@ -14432,7 +14432,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 43,
       model_id: 425,
       price: 89789,
       store_id: 5,
@@ -14441,7 +14441,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 43,
       model_id: 426,
       price: 91896,
       store_id: 2,
@@ -14450,7 +14450,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 43,
       model_id: 427,
       price: 29471,
       store_id: 1,
@@ -14459,7 +14459,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 43,
       model_id: 428,
       price: 91241,
       store_id: 4,
@@ -14468,7 +14468,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 43,
       model_id: 429,
       price: 78649,
       store_id: 5,
@@ -14477,7 +14477,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 43,
       model_id: 430,
       price: 49872,
       store_id: 3,
@@ -14486,7 +14486,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 44,
       model_id: 431,
       price: 90888,
       store_id: 4,
@@ -14495,7 +14495,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 44,
       model_id: 432,
       price: 82881,
       store_id: 4,
@@ -14504,7 +14504,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 44,
       model_id: 433,
       price: 22174,
       store_id: 4,
@@ -14513,7 +14513,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 44,
       model_id: 434,
       price: 29504,
       store_id: 2,
@@ -14522,7 +14522,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 44,
       model_id: 435,
       price: 212,
       store_id: 4,
@@ -14531,7 +14531,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 44,
       model_id: 436,
       price: 60147,
       store_id: 3,
@@ -14540,7 +14540,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 44,
       model_id: 437,
       price: 69923,
       store_id: 2,
@@ -14549,7 +14549,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 44,
       model_id: 438,
       price: 5852,
       store_id: 5,
@@ -14558,7 +14558,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 44,
       model_id: 439,
       price: 95985,
       store_id: 5,
@@ -14567,7 +14567,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 44,
       model_id: 440,
       price: 47514,
       store_id: 3,
@@ -14576,7 +14576,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 45,
       model_id: 441,
       price: 49812,
       store_id: 3,
@@ -14585,7 +14585,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 45,
       model_id: 442,
       price: 32280,
       store_id: 3,
@@ -14594,7 +14594,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 45,
       model_id: 443,
       price: 95561,
       store_id: 1,
@@ -14603,7 +14603,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 45,
       model_id: 444,
       price: 68850,
       store_id: 1,
@@ -14612,7 +14612,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 45,
       model_id: 445,
       price: 76826,
       store_id: 3,
@@ -14621,7 +14621,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 45,
       model_id: 446,
       price: 47574,
       store_id: 2,
@@ -14630,7 +14630,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 45,
       model_id: 447,
       price: 46405,
       store_id: 5,
@@ -14639,7 +14639,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 45,
       model_id: 448,
       price: 49183,
       store_id: 2,
@@ -14648,7 +14648,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 45,
       model_id: 449,
       price: 4527,
       store_id: 3,
@@ -14657,7 +14657,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 45,
       model_id: 450,
       price: 59821,
       store_id: 3,
@@ -14666,7 +14666,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 46,
       model_id: 451,
       price: 93931,
       store_id: 4,
@@ -14675,7 +14675,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 46,
       model_id: 452,
       price: 54627,
       store_id: 4,
@@ -14684,7 +14684,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 46,
       model_id: 453,
       price: 89141,
       store_id: 4,
@@ -14693,7 +14693,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 46,
       model_id: 454,
       price: 57461,
       store_id: 2,
@@ -14702,7 +14702,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 46,
       model_id: 455,
       price: 57575,
       store_id: 5,
@@ -14711,7 +14711,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 46,
       model_id: 456,
       price: 96555,
       store_id: 5,
@@ -14720,7 +14720,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 46,
       model_id: 457,
       price: 65431,
       store_id: 4,
@@ -14729,7 +14729,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 46,
       model_id: 458,
       price: 77322,
       store_id: 5,
@@ -14738,7 +14738,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 46,
       model_id: 459,
       price: 39023,
       store_id: 4,
@@ -14747,7 +14747,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 46,
       model_id: 460,
       price: 58748,
       store_id: 3,
@@ -14756,7 +14756,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 47,
       model_id: 461,
       price: 2316,
       store_id: 4,
@@ -14765,7 +14765,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 47,
       model_id: 462,
       price: 71502,
       store_id: 2,
@@ -14774,7 +14774,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 47,
       model_id: 463,
       price: 98090,
       store_id: 5,
@@ -14783,7 +14783,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 47,
       model_id: 464,
       price: 94929,
       store_id: 4,
@@ -14792,7 +14792,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 47,
       model_id: 465,
       price: 76221,
       store_id: 4,
@@ -14801,7 +14801,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 47,
       model_id: 466,
       price: 84896,
       store_id: 1,
@@ -14810,7 +14810,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 47,
       model_id: 467,
       price: 29502,
       store_id: 5,
@@ -14819,7 +14819,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 47,
       model_id: 468,
       price: 31581,
       store_id: 1,
@@ -14828,7 +14828,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 47,
       model_id: 469,
       price: 12140,
       store_id: 4,
@@ -14837,7 +14837,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 47,
       model_id: 470,
       price: 12697,
       store_id: 5,
@@ -14846,7 +14846,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 48,
       model_id: 471,
       price: 26284,
       store_id: 3,
@@ -14855,7 +14855,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 48,
       model_id: 472,
       price: 42972,
       store_id: 2,
@@ -14864,7 +14864,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 48,
       model_id: 473,
       price: 60578,
       store_id: 2,
@@ -14873,7 +14873,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 48,
       model_id: 474,
       price: 68525,
       store_id: 1,
@@ -14882,7 +14882,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 48,
       model_id: 475,
       price: 27580,
       store_id: 4,
@@ -14891,7 +14891,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 48,
       model_id: 476,
       price: 59731,
       store_id: 1,
@@ -14900,7 +14900,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 48,
       model_id: 477,
       price: 46622,
       store_id: 3,
@@ -14909,7 +14909,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 48,
       model_id: 478,
       price: 27800,
       store_id: 5,
@@ -14918,7 +14918,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 48,
       model_id: 479,
       price: 43332,
       store_id: 3,
@@ -14927,7 +14927,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 48,
       model_id: 480,
       price: 67148,
       store_id: 4,
@@ -14936,7 +14936,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 49,
       model_id: 481,
       price: 73216,
       store_id: 2,
@@ -14945,7 +14945,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 49,
       model_id: 482,
       price: 13253,
       store_id: 5,
@@ -14954,7 +14954,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 49,
       model_id: 483,
       price: 75045,
       store_id: 4,
@@ -14963,7 +14963,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 49,
       model_id: 484,
       price: 53884,
       store_id: 5,
@@ -14972,7 +14972,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 49,
       model_id: 485,
       price: 93688,
       store_id: 2,
@@ -14981,7 +14981,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 49,
       model_id: 486,
       price: 31649,
       store_id: 2,
@@ -14990,7 +14990,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 49,
       model_id: 487,
       price: 43853,
       store_id: 1,
@@ -14999,7 +14999,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 49,
       model_id: 488,
       price: 13091,
       store_id: 4,
@@ -15008,7 +15008,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 14,
-      brand_id: 1,
+      brand_id: 49,
       model_id: 489,
       price: 82734,
       store_id: 2,
@@ -15017,7 +15017,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 49,
       model_id: 490,
       price: 6818,
       store_id: 1,
@@ -15026,7 +15026,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 50,
       model_id: 491,
       price: 90170,
       store_id: 1,
@@ -15035,7 +15035,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 50,
       model_id: 492,
       price: 29139,
       store_id: 5,
@@ -15044,7 +15044,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 50,
       model_id: 493,
       price: 16587,
       store_id: 5,
@@ -15053,7 +15053,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 50,
       model_id: 494,
       price: 95019,
       store_id: 1,
@@ -15062,7 +15062,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 50,
       model_id: 495,
       price: 76175,
       store_id: 3,
@@ -15071,7 +15071,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 50,
       model_id: 496,
       price: 51254,
       store_id: 2,
@@ -15080,7 +15080,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 50,
       model_id: 497,
       price: 29936,
       store_id: 1,
@@ -15089,7 +15089,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 50,
       model_id: 498,
       price: 23826,
       store_id: 2,
@@ -15098,7 +15098,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 50,
       model_id: 499,
       price: 28879,
       store_id: 5,
@@ -15107,7 +15107,7 @@ module.exports = {
     {
       categ_id: 5,
       type_id: 13,
-      brand_id: 1,
+      brand_id: 50,
       model_id: 500,
       price: 41693,
       store_id: 2,
@@ -15476,7 +15476,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 50,
+      brand_id: 51,
       model_id: 541,
       price: 71518,
       store_id: 4,
@@ -15485,7 +15485,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 50,
+      brand_id: 51,
       model_id: 542,
       price: 76063,
       store_id: 5,
@@ -15494,7 +15494,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 50,
+      brand_id: 51,
       model_id: 543,
       price: 74866,
       store_id: 3,
@@ -15503,7 +15503,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 50,
+      brand_id: 51,
       model_id: 544,
       price: 97646,
       store_id: 2,
@@ -15512,7 +15512,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 50,
+      brand_id: 51,
       model_id: 545,
       price: 79816,
       store_id: 2,
@@ -15521,7 +15521,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 50,
+      brand_id: 51,
       model_id: 546,
       price: 60341,
       store_id: 4,
@@ -15530,7 +15530,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 50,
+      brand_id: 51,
       model_id: 547,
       price: 15267,
       store_id: 3,
@@ -15539,7 +15539,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 50,
+      brand_id: 51,
       model_id: 548,
       price: 40021,
       store_id: 5,
@@ -15548,7 +15548,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 50,
+      brand_id: 51,
       model_id: 549,
       price: 91768,
       store_id: 3,
@@ -15566,7 +15566,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 51,
+      brand_id: 52,
       model_id: 551,
       price: 67597,
       store_id: 5,
@@ -15575,7 +15575,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 51,
+      brand_id: 52,
       model_id: 552,
       price: 19836,
       store_id: 4,
@@ -15584,7 +15584,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 51,
+      brand_id: 52,
       model_id: 553,
       price: 40878,
       store_id: 2,
@@ -15593,7 +15593,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 51,
+      brand_id: 52,
       model_id: 554,
       price: 33734,
       store_id: 4,
@@ -15602,7 +15602,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 51,
+      brand_id: 52,
       model_id: 555,
       price: 6131,
       store_id: 2,
@@ -15611,7 +15611,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 51,
+      brand_id: 52,
       model_id: 556,
       price: 89826,
       store_id: 5,
@@ -15620,7 +15620,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 51,
+      brand_id: 52,
       model_id: 557,
       price: 96111,
       store_id: 5,
@@ -15629,7 +15629,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 51,
+      brand_id: 52,
       model_id: 558,
       price: 84358,
       store_id: 2,
@@ -15638,7 +15638,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 51,
+      brand_id: 52,
       model_id: 559,
       price: 72973,
       store_id: 3,
@@ -15656,7 +15656,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 52,
+      brand_id: 53,
       model_id: 561,
       price: 1445,
       store_id: 2,
@@ -15665,7 +15665,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 52,
+      brand_id: 53,
       model_id: 562,
       price: 76307,
       store_id: 1,
@@ -15674,7 +15674,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 52,
+      brand_id: 53,
       model_id: 563,
       price: 22830,
       store_id: 1,
@@ -15683,7 +15683,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 52,
+      brand_id: 53,
       model_id: 564,
       price: 73011,
       store_id: 2,
@@ -15692,7 +15692,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 52,
+      brand_id: 53,
       model_id: 565,
       price: 8445,
       store_id: 5,
@@ -15701,7 +15701,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 52,
+      brand_id: 53,
       model_id: 566,
       price: 52329,
       store_id: 3,
@@ -15710,7 +15710,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 52,
+      brand_id: 53,
       model_id: 567,
       price: 94548,
       store_id: 3,
@@ -15719,7 +15719,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 52,
+      brand_id: 53,
       model_id: 568,
       price: 37536,
       store_id: 3,
@@ -15728,7 +15728,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 52,
+      brand_id: 53,
       model_id: 569,
       price: 78628,
       store_id: 2,
@@ -15746,7 +15746,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 53,
+      brand_id: 54,
       model_id: 571,
       price: 17707,
       store_id: 4,
@@ -15755,7 +15755,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 53,
+      brand_id: 54,
       model_id: 572,
       price: 65439,
       store_id: 1,
@@ -15764,7 +15764,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 53,
+      brand_id: 54,
       model_id: 573,
       price: 37797,
       store_id: 5,
@@ -15773,7 +15773,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 53,
+      brand_id: 54,
       model_id: 574,
       price: 68211,
       store_id: 5,
@@ -15782,7 +15782,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 53,
+      brand_id: 54,
       model_id: 575,
       price: 49069,
       store_id: 2,
@@ -15791,7 +15791,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 53,
+      brand_id: 54,
       model_id: 576,
       price: 24088,
       store_id: 3,
@@ -15800,7 +15800,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 53,
+      brand_id: 54,
       model_id: 577,
       price: 73938,
       store_id: 4,
@@ -15809,7 +15809,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 53,
+      brand_id: 54,
       model_id: 578,
       price: 92,
       store_id: 5,
@@ -15818,7 +15818,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 53,
+      brand_id: 54,
       model_id: 579,
       price: 24696,
       store_id: 3,
@@ -15836,7 +15836,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 54,
+      brand_id: 55,
       model_id: 581,
       price: 78586,
       store_id: 4,
@@ -15845,7 +15845,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 54,
+      brand_id: 55,
       model_id: 582,
       price: 90282,
       store_id: 3,
@@ -15854,7 +15854,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 54,
+      brand_id: 55,
       model_id: 583,
       price: 97682,
       store_id: 5,
@@ -15863,7 +15863,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 54,
+      brand_id: 55,
       model_id: 584,
       price: 86163,
       store_id: 3,
@@ -15872,7 +15872,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 54,
+      brand_id: 55,
       model_id: 585,
       price: 36177,
       store_id: 4,
@@ -15881,7 +15881,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 54,
+      brand_id: 55,
       model_id: 586,
       price: 79829,
       store_id: 2,
@@ -15890,7 +15890,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 54,
+      brand_id: 55,
       model_id: 587,
       price: 50695,
       store_id: 4,
@@ -15899,7 +15899,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 54,
+      brand_id: 55,
       model_id: 588,
       price: 34862,
       store_id: 2,
@@ -15908,7 +15908,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 54,
+      brand_id: 55,
       model_id: 589,
       price: 99147,
       store_id: 3,
@@ -15926,7 +15926,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 55,
+      brand_id: 56,
       model_id: 591,
       price: 7086,
       store_id: 2,
@@ -15935,7 +15935,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 55,
+      brand_id: 56,
       model_id: 592,
       price: 15668,
       store_id: 1,
@@ -15944,7 +15944,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 55,
+      brand_id: 56,
       model_id: 593,
       price: 90085,
       store_id: 3,
@@ -15953,7 +15953,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 55,
+      brand_id: 56,
       model_id: 594,
       price: 58616,
       store_id: 4,
@@ -15962,7 +15962,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 55,
+      brand_id: 56,
       model_id: 595,
       price: 48179,
       store_id: 5,
@@ -15971,7 +15971,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 55,
+      brand_id: 56,
       model_id: 596,
       price: 11520,
       store_id: 3,
@@ -15980,7 +15980,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 55,
+      brand_id: 56,
       model_id: 597,
       price: 34848,
       store_id: 3,
@@ -15989,7 +15989,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 16,
-      brand_id: 55,
+      brand_id: 56,
       model_id: 598,
       price: 64053,
       store_id: 4,
@@ -15998,7 +15998,7 @@ module.exports = {
     {
       categ_id: 6,
       type_id: 15,
-      brand_id: 55,
+      brand_id: 56,
       model_id: 599,
       price: 27915,
       store_id: 4,
@@ -16016,7 +16016,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 56,
+      brand_id: 57,
       model_id: 601,
       price: 3828,
       store_id: 2,
@@ -16025,7 +16025,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 56,
+      brand_id: 57,
       model_id: 602,
       price: 95302,
       store_id: 3,
@@ -16034,7 +16034,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 56,
+      brand_id: 57,
       model_id: 603,
       price: 69187,
       store_id: 2,
@@ -16043,7 +16043,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 56,
+      brand_id: 57,
       model_id: 604,
       price: 97809,
       store_id: 1,
@@ -16052,7 +16052,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 56,
+      brand_id: 57,
       model_id: 605,
       price: 87099,
       store_id: 4,
@@ -16061,7 +16061,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 56,
+      brand_id: 57,
       model_id: 606,
       price: 72788,
       store_id: 4,
@@ -16070,7 +16070,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 56,
+      brand_id: 57,
       model_id: 607,
       price: 12086,
       store_id: 2,
@@ -16079,7 +16079,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 56,
+      brand_id: 57,
       model_id: 608,
       price: 27617,
       store_id: 2,
@@ -16088,7 +16088,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 56,
+      brand_id: 57,
       model_id: 609,
       price: 86980,
       store_id: 3,
@@ -16106,7 +16106,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 57,
+      brand_id: 58,
       model_id: 611,
       price: 35055,
       store_id: 3,
@@ -16115,7 +16115,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 57,
+      brand_id: 58,
       model_id: 612,
       price: 54619,
       store_id: 1,
@@ -16124,7 +16124,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 57,
+      brand_id: 58,
       model_id: 613,
       price: 40427,
       store_id: 4,
@@ -16133,7 +16133,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 57,
+      brand_id: 58,
       model_id: 614,
       price: 57371,
       store_id: 2,
@@ -16142,7 +16142,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 57,
+      brand_id: 58,
       model_id: 615,
       price: 59508,
       store_id: 2,
@@ -16151,7 +16151,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 57,
+      brand_id: 58,
       model_id: 616,
       price: 3339,
       store_id: 2,
@@ -16160,7 +16160,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 57,
+      brand_id: 58,
       model_id: 617,
       price: 13745,
       store_id: 5,
@@ -16169,7 +16169,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 57,
+      brand_id: 58,
       model_id: 618,
       price: 69315,
       store_id: 2,
@@ -16178,7 +16178,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 57,
+      brand_id: 58,
       model_id: 619,
       price: 127,
       store_id: 3,
@@ -16196,7 +16196,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 58,
+      brand_id: 59,
       model_id: 621,
       price: 87294,
       store_id: 3,
@@ -16205,7 +16205,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 58,
+      brand_id: 59,
       model_id: 622,
       price: 14586,
       store_id: 1,
@@ -16214,7 +16214,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 58,
+      brand_id: 59,
       model_id: 623,
       price: 8427,
       store_id: 3,
@@ -16223,7 +16223,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 58,
+      brand_id: 59,
       model_id: 624,
       price: 7183,
       store_id: 3,
@@ -16232,7 +16232,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 58,
+      brand_id: 59,
       model_id: 625,
       price: 42317,
       store_id: 1,
@@ -16241,7 +16241,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 58,
+      brand_id: 59,
       model_id: 626,
       price: 56271,
       store_id: 5,
@@ -16250,7 +16250,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 58,
+      brand_id: 59,
       model_id: 627,
       price: 48638,
       store_id: 2,
@@ -16259,7 +16259,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 58,
+      brand_id: 59,
       model_id: 628,
       price: 67504,
       store_id: 2,
@@ -16268,7 +16268,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 58,
+      brand_id: 59,
       model_id: 629,
       price: 36585,
       store_id: 3,
@@ -16286,7 +16286,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 59,
+      brand_id: 60,
       model_id: 631,
       price: 52881,
       store_id: 3,
@@ -16295,7 +16295,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 59,
+      brand_id: 60,
       model_id: 632,
       price: 13336,
       store_id: 4,
@@ -16304,7 +16304,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 59,
+      brand_id: 60,
       model_id: 633,
       price: 62858,
       store_id: 5,
@@ -16313,7 +16313,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 59,
+      brand_id: 60,
       model_id: 634,
       price: 94234,
       store_id: 4,
@@ -16322,7 +16322,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 59,
+      brand_id: 60,
       model_id: 635,
       price: 46302,
       store_id: 5,
@@ -16331,7 +16331,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 59,
+      brand_id: 60,
       model_id: 636,
       price: 76567,
       store_id: 5,
@@ -16340,7 +16340,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 59,
+      brand_id: 60,
       model_id: 637,
       price: 3746,
       store_id: 3,
@@ -16349,7 +16349,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 59,
+      brand_id: 60,
       model_id: 638,
       price: 15653,
       store_id: 4,
@@ -16358,7 +16358,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 59,
+      brand_id: 60,
       model_id: 639,
       price: 59420,
       store_id: 2,
@@ -16376,7 +16376,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 60,
+      brand_id: 61,
       model_id: 641,
       price: 19178,
       store_id: 4,
@@ -16385,7 +16385,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 60,
+      brand_id: 61,
       model_id: 642,
       price: 44288,
       store_id: 5,
@@ -16394,7 +16394,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 60,
+      brand_id: 61,
       model_id: 643,
       price: 80411,
       store_id: 3,
@@ -16403,7 +16403,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 60,
+      brand_id: 61,
       model_id: 644,
       price: 93255,
       store_id: 1,
@@ -16412,7 +16412,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 60,
+      brand_id: 61,
       model_id: 645,
       price: 29202,
       store_id: 2,
@@ -16421,7 +16421,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 60,
+      brand_id: 61,
       model_id: 646,
       price: 92874,
       store_id: 5,
@@ -16430,7 +16430,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 60,
+      brand_id: 61,
       model_id: 647,
       price: 29407,
       store_id: 4,
@@ -16439,7 +16439,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 60,
+      brand_id: 61,
       model_id: 648,
       price: 7219,
       store_id: 5,
@@ -16448,7 +16448,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 60,
+      brand_id: 61,
       model_id: 649,
       price: 64912,
       store_id: 1,
@@ -16466,7 +16466,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 61,
+      brand_id: 62,
       model_id: 651,
       price: 76228,
       store_id: 4,
@@ -16475,7 +16475,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 61,
+      brand_id: 62,
       model_id: 652,
       price: 28799,
       store_id: 5,
@@ -16484,7 +16484,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 61,
+      brand_id: 62,
       model_id: 653,
       price: 61763,
       store_id: 1,
@@ -16493,7 +16493,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 61,
+      brand_id: 62,
       model_id: 654,
       price: 97074,
       store_id: 5,
@@ -16502,7 +16502,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 61,
+      brand_id: 62,
       model_id: 655,
       price: 74458,
       store_id: 4,
@@ -16511,7 +16511,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 61,
+      brand_id: 62,
       model_id: 656,
       price: 51403,
       store_id: 2,
@@ -16520,7 +16520,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 61,
+      brand_id: 62,
       model_id: 657,
       price: 60348,
       store_id: 3,
@@ -16529,7 +16529,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 61,
+      brand_id: 62,
       model_id: 658,
       price: 31146,
       store_id: 2,
@@ -16538,7 +16538,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 61,
+      brand_id: 62,
       model_id: 659,
       price: 65122,
       store_id: 4,
@@ -16556,7 +16556,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 62,
+      brand_id: 63,
       model_id: 661,
       price: 80098,
       store_id: 4,
@@ -16565,7 +16565,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 62,
+      brand_id: 63,
       model_id: 662,
       price: 66260,
       store_id: 4,
@@ -16574,7 +16574,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 62,
+      brand_id: 63,
       model_id: 663,
       price: 39523,
       store_id: 1,
@@ -16583,7 +16583,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 62,
+      brand_id: 63,
       model_id: 664,
       price: 32903,
       store_id: 3,
@@ -16592,7 +16592,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 62,
+      brand_id: 63,
       model_id: 665,
       price: 12771,
       store_id: 3,
@@ -16601,7 +16601,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 62,
+      brand_id: 63,
       model_id: 666,
       price: 72963,
       store_id: 1,
@@ -16610,7 +16610,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 62,
+      brand_id: 63,
       model_id: 667,
       price: 8084,
       store_id: 5,
@@ -16619,7 +16619,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 62,
+      brand_id: 63,
       model_id: 668,
       price: 61705,
       store_id: 2,
@@ -16628,7 +16628,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 62,
+      brand_id: 63,
       model_id: 669,
       price: 53766,
       store_id: 3,
@@ -16646,7 +16646,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 63,
+      brand_id: 64,
       model_id: 671,
       price: 87253,
       store_id: 4,
@@ -16655,7 +16655,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 63,
+      brand_id: 64,
       model_id: 672,
       price: 35153,
       store_id: 4,
@@ -16664,7 +16664,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 63,
+      brand_id: 64,
       model_id: 673,
       price: 80893,
       store_id: 1,
@@ -16673,7 +16673,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 63,
+      brand_id: 64,
       model_id: 674,
       price: 30503,
       store_id: 1,
@@ -16682,7 +16682,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 63,
+      brand_id: 64,
       model_id: 675,
       price: 6784,
       store_id: 5,
@@ -16691,7 +16691,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 63,
+      brand_id: 64,
       model_id: 676,
       price: 7749,
       store_id: 5,
@@ -16700,7 +16700,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 63,
+      brand_id: 64,
       model_id: 677,
       price: 48237,
       store_id: 2,
@@ -16709,7 +16709,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 63,
+      brand_id: 64,
       model_id: 678,
       price: 65380,
       store_id: 2,
@@ -16718,7 +16718,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 63,
+      brand_id: 64,
       model_id: 679,
       price: 86266,
       store_id: 3,
@@ -16736,7 +16736,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 64,
+      brand_id: 65,
       model_id: 681,
       price: 27208,
       store_id: 2,
@@ -16745,7 +16745,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 64,
+      brand_id: 65,
       model_id: 682,
       price: 91331,
       store_id: 4,
@@ -16754,7 +16754,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 64,
+      brand_id: 65,
       model_id: 683,
       price: 18007,
       store_id: 4,
@@ -16763,7 +16763,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 64,
+      brand_id: 65,
       model_id: 684,
       price: 96122,
       store_id: 4,
@@ -16772,7 +16772,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 64,
+      brand_id: 65,
       model_id: 685,
       price: 94403,
       store_id: 4,
@@ -16781,7 +16781,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 64,
+      brand_id: 65,
       model_id: 686,
       price: 45593,
       store_id: 4,
@@ -16790,7 +16790,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 64,
+      brand_id: 65,
       model_id: 687,
       price: 34178,
       store_id: 5,
@@ -16799,7 +16799,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 64,
+      brand_id: 65,
       model_id: 688,
       price: 68208,
       store_id: 1,
@@ -16808,7 +16808,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 64,
+      brand_id: 65,
       model_id: 689,
       price: 12569,
       store_id: 2,
@@ -16826,7 +16826,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 65,
+      brand_id: 66,
       model_id: 691,
       price: 61567,
       store_id: 4,
@@ -16835,7 +16835,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 65,
+      brand_id: 66,
       model_id: 692,
       price: 21555,
       store_id: 2,
@@ -16844,7 +16844,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 65,
+      brand_id: 66,
       model_id: 693,
       price: 48387,
       store_id: 1,
@@ -16853,7 +16853,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 65,
+      brand_id: 66,
       model_id: 694,
       price: 55397,
       store_id: 2,
@@ -16862,7 +16862,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 65,
+      brand_id: 66,
       model_id: 695,
       price: 53275,
       store_id: 2,
@@ -16871,7 +16871,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 65,
+      brand_id: 66,
       model_id: 696,
       price: 86566,
       store_id: 1,
@@ -16880,7 +16880,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 65,
+      brand_id: 66,
       model_id: 697,
       price: 58620,
       store_id: 4,
@@ -16889,7 +16889,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 18,
-      brand_id: 65,
+      brand_id: 66,
       model_id: 698,
       price: 69754,
       store_id: 2,
@@ -16898,7 +16898,7 @@ module.exports = {
     {
       categ_id: 7,
       type_id: 17,
-      brand_id: 65,
+      brand_id: 66,
       model_id: 699,
       price: 85232,
       store_id: 4,
@@ -16916,7 +16916,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 66,
+      brand_id: 67,
       model_id: 701,
       price: 94491,
       store_id: 3,
@@ -16925,7 +16925,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 66,
+      brand_id: 67,
       model_id: 702,
       price: 75805,
       store_id: 4,
@@ -16934,7 +16934,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 66,
+      brand_id: 67,
       model_id: 703,
       price: 73821,
       store_id: 3,
@@ -16943,7 +16943,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 66,
+      brand_id: 67,
       model_id: 704,
       price: 88651,
       store_id: 5,
@@ -16952,7 +16952,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 66,
+      brand_id: 67,
       model_id: 705,
       price: 90579,
       store_id: 1,
@@ -16961,7 +16961,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 66,
+      brand_id: 67,
       model_id: 706,
       price: 45415,
       store_id: 4,
@@ -16970,7 +16970,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 66,
+      brand_id: 67,
       model_id: 707,
       price: 79754,
       store_id: 5,
@@ -16979,7 +16979,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 66,
+      brand_id: 67,
       model_id: 708,
       price: 93654,
       store_id: 2,
@@ -16988,7 +16988,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 66,
+      brand_id: 67,
       model_id: 709,
       price: 57309,
       store_id: 1,
@@ -17006,7 +17006,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 67,
+      brand_id: 68,
       model_id: 711,
       price: 32715,
       store_id: 3,
@@ -17015,7 +17015,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 67,
+      brand_id: 68,
       model_id: 712,
       price: 72895,
       store_id: 5,
@@ -17024,7 +17024,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 67,
+      brand_id: 68,
       model_id: 713,
       price: 20660,
       store_id: 3,
@@ -17033,7 +17033,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 67,
+      brand_id: 68,
       model_id: 714,
       price: 18042,
       store_id: 4,
@@ -17042,7 +17042,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 67,
+      brand_id: 68,
       model_id: 715,
       price: 68,
       store_id: 1,
@@ -17051,7 +17051,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 67,
+      brand_id: 68,
       model_id: 716,
       price: 98269,
       store_id: 1,
@@ -17060,7 +17060,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 67,
+      brand_id: 68,
       model_id: 717,
       price: 54406,
       store_id: 3,
@@ -17069,7 +17069,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 67,
+      brand_id: 68,
       model_id: 718,
       price: 3916,
       store_id: 2,
@@ -17078,7 +17078,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 67,
+      brand_id: 68,
       model_id: 719,
       price: 68086,
       store_id: 2,
@@ -17096,7 +17096,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 68,
+      brand_id: 69,
       model_id: 721,
       price: 72671,
       store_id: 1,
@@ -17105,7 +17105,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 68,
+      brand_id: 69,
       model_id: 722,
       price: 68866,
       store_id: 2,
@@ -17114,7 +17114,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 68,
+      brand_id: 69,
       model_id: 723,
       price: 39017,
       store_id: 2,
@@ -17123,7 +17123,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 68,
+      brand_id: 69,
       model_id: 724,
       price: 34142,
       store_id: 5,
@@ -17132,7 +17132,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 68,
+      brand_id: 69,
       model_id: 725,
       price: 95242,
       store_id: 4,
@@ -17141,7 +17141,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 68,
+      brand_id: 69,
       model_id: 726,
       price: 1577,
       store_id: 2,
@@ -17150,7 +17150,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 68,
+      brand_id: 69,
       model_id: 727,
       price: 62175,
       store_id: 4,
@@ -17159,7 +17159,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 68,
+      brand_id: 69,
       model_id: 728,
       price: 89530,
       store_id: 4,
@@ -17168,7 +17168,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 68,
+      brand_id: 69,
       model_id: 729,
       price: 10131,
       store_id: 3,
@@ -17186,7 +17186,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 69,
+      brand_id: 70,
       model_id: 731,
       price: 5896,
       store_id: 1,
@@ -17195,7 +17195,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 69,
+      brand_id: 70,
       model_id: 732,
       price: 5328,
       store_id: 3,
@@ -17204,7 +17204,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 69,
+      brand_id: 70,
       model_id: 733,
       price: 7111,
       store_id: 4,
@@ -17213,7 +17213,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 69,
+      brand_id: 70,
       model_id: 734,
       price: 21914,
       store_id: 5,
@@ -17222,7 +17222,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 69,
+      brand_id: 70,
       model_id: 735,
       price: 27606,
       store_id: 5,
@@ -17231,7 +17231,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 69,
+      brand_id: 70,
       model_id: 736,
       price: 81851,
       store_id: 3,
@@ -17240,7 +17240,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 69,
+      brand_id: 70,
       model_id: 737,
       price: 20999,
       store_id: 1,
@@ -17249,7 +17249,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 69,
+      brand_id: 70,
       model_id: 738,
       price: 3230,
       store_id: 3,
@@ -17258,7 +17258,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 69,
+      brand_id: 70,
       model_id: 739,
       price: 46320,
       store_id: 5,
@@ -17276,7 +17276,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 70,
+      brand_id: 71,
       model_id: 741,
       price: 79612,
       store_id: 4,
@@ -17285,7 +17285,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 70,
+      brand_id: 71,
       model_id: 742,
       price: 38966,
       store_id: 2,
@@ -17294,7 +17294,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 70,
+      brand_id: 71,
       model_id: 743,
       price: 48611,
       store_id: 4,
@@ -17303,7 +17303,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 70,
+      brand_id: 71,
       model_id: 744,
       price: 57277,
       store_id: 4,
@@ -17312,7 +17312,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 70,
+      brand_id: 71,
       model_id: 745,
       price: 35097,
       store_id: 1,
@@ -17321,7 +17321,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 70,
+      brand_id: 71,
       model_id: 746,
       price: 45099,
       store_id: 1,
@@ -17330,7 +17330,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 70,
+      brand_id: 71,
       model_id: 747,
       price: 89384,
       store_id: 5,
@@ -17339,7 +17339,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 70,
+      brand_id: 71,
       model_id: 748,
       price: 94518,
       store_id: 3,
@@ -17348,7 +17348,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 70,
+      brand_id: 71,
       model_id: 749,
       price: 54139,
       store_id: 2,
@@ -17366,7 +17366,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 71,
+      brand_id: 72,
       model_id: 751,
       price: 8776,
       store_id: 1,
@@ -17375,7 +17375,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 71,
+      brand_id: 72,
       model_id: 752,
       price: 45767,
       store_id: 1,
@@ -17384,7 +17384,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 71,
+      brand_id: 72,
       model_id: 753,
       price: 45124,
       store_id: 1,
@@ -17393,7 +17393,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 71,
+      brand_id: 72,
       model_id: 754,
       price: 92278,
       store_id: 5,
@@ -17402,7 +17402,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 71,
+      brand_id: 72,
       model_id: 755,
       price: 81468,
       store_id: 2,
@@ -17411,7 +17411,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 71,
+      brand_id: 72,
       model_id: 756,
       price: 75076,
       store_id: 1,
@@ -17420,7 +17420,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 71,
+      brand_id: 72,
       model_id: 757,
       price: 43955,
       store_id: 1,
@@ -17429,7 +17429,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 71,
+      brand_id: 72,
       model_id: 758,
       price: 32656,
       store_id: 4,
@@ -17438,7 +17438,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 71,
+      brand_id: 72,
       model_id: 759,
       price: 63088,
       store_id: 4,
@@ -17456,7 +17456,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 72,
+      brand_id: 73,
       model_id: 761,
       price: 6753,
       store_id: 2,
@@ -17465,7 +17465,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 72,
+      brand_id: 73,
       model_id: 762,
       price: 24150,
       store_id: 1,
@@ -17474,7 +17474,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 72,
+      brand_id: 73,
       model_id: 763,
       price: 7026,
       store_id: 3,
@@ -17483,7 +17483,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 72,
+      brand_id: 73,
       model_id: 764,
       price: 60560,
       store_id: 2,
@@ -17492,7 +17492,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 72,
+      brand_id: 73,
       model_id: 765,
       price: 15660,
       store_id: 3,
@@ -17501,7 +17501,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 72,
+      brand_id: 73,
       model_id: 766,
       price: 44243,
       store_id: 2,
@@ -17510,7 +17510,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 72,
+      brand_id: 73,
       model_id: 767,
       price: 1393,
       store_id: 4,
@@ -17519,7 +17519,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 72,
+      brand_id: 73,
       model_id: 768,
       price: 59396,
       store_id: 4,
@@ -17528,7 +17528,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 72,
+      brand_id: 73,
       model_id: 769,
       price: 98022,
       store_id: 3,
@@ -17546,7 +17546,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 73,
+      brand_id: 74,
       model_id: 771,
       price: 5270,
       store_id: 4,
@@ -17555,7 +17555,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 73,
+      brand_id: 74,
       model_id: 772,
       price: 56302,
       store_id: 1,
@@ -17564,7 +17564,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 73,
+      brand_id: 74,
       model_id: 773,
       price: 81070,
       store_id: 3,
@@ -17573,7 +17573,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 73,
+      brand_id: 74,
       model_id: 774,
       price: 4278,
       store_id: 3,
@@ -17582,7 +17582,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 73,
+      brand_id: 74,
       model_id: 775,
       price: 17057,
       store_id: 1,
@@ -17591,7 +17591,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 73,
+      brand_id: 74,
       model_id: 776,
       price: 17857,
       store_id: 1,
@@ -17600,7 +17600,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 73,
+      brand_id: 74,
       model_id: 777,
       price: 45457,
       store_id: 2,
@@ -17609,7 +17609,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 73,
+      brand_id: 74,
       model_id: 778,
       price: 17571,
       store_id: 3,
@@ -17618,7 +17618,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 73,
+      brand_id: 74,
       model_id: 779,
       price: 51970,
       store_id: 1,
@@ -17636,7 +17636,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 74,
+      brand_id: 75,
       model_id: 781,
       price: 41639,
       store_id: 2,
@@ -17645,7 +17645,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 74,
+      brand_id: 75,
       model_id: 782,
       price: 52143,
       store_id: 3,
@@ -17654,7 +17654,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 74,
+      brand_id: 75,
       model_id: 783,
       price: 27712,
       store_id: 5,
@@ -17663,7 +17663,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 74,
+      brand_id: 75,
       model_id: 784,
       price: 65155,
       store_id: 3,
@@ -17672,7 +17672,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 74,
+      brand_id: 75,
       model_id: 785,
       price: 15133,
       store_id: 5,
@@ -17681,7 +17681,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 74,
+      brand_id: 75,
       model_id: 786,
       price: 94927,
       store_id: 4,
@@ -17690,7 +17690,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 74,
+      brand_id: 75,
       model_id: 787,
       price: 62633,
       store_id: 4,
@@ -17699,7 +17699,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 74,
+      brand_id: 75,
       model_id: 788,
       price: 52998,
       store_id: 4,
@@ -17708,7 +17708,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 74,
+      brand_id: 75,
       model_id: 789,
       price: 37025,
       store_id: 2,
@@ -17726,7 +17726,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 75,
+      brand_id: 76,
       model_id: 791,
       price: 95816,
       store_id: 1,
@@ -17735,7 +17735,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 75,
+      brand_id: 76,
       model_id: 792,
       price: 59286,
       store_id: 3,
@@ -17744,7 +17744,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 75,
+      brand_id: 76,
       model_id: 793,
       price: 15487,
       store_id: 5,
@@ -17753,7 +17753,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 75,
+      brand_id: 76,
       model_id: 794,
       price: 67199,
       store_id: 3,
@@ -17762,7 +17762,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 75,
+      brand_id: 76,
       model_id: 795,
       price: 26280,
       store_id: 3,
@@ -17771,7 +17771,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 75,
+      brand_id: 76,
       model_id: 796,
       price: 64439,
       store_id: 2,
@@ -17780,7 +17780,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 75,
+      brand_id: 76,
       model_id: 797,
       price: 73995,
       store_id: 4,
@@ -17789,7 +17789,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 20,
-      brand_id: 75,
+      brand_id: 76,
       model_id: 798,
       price: 48356,
       store_id: 4,
@@ -17798,7 +17798,7 @@ module.exports = {
     {
       categ_id: 8,
       type_id: 19,
-      brand_id: 75,
+      brand_id: 76,
       model_id: 799,
       price: 21928,
       store_id: 4,
@@ -17816,7 +17816,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 76,
+      brand_id: 77,
       model_id: 801,
       price: 58096,
       store_id: 4,
@@ -17825,7 +17825,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 76,
+      brand_id: 77,
       model_id: 802,
       price: 31318,
       store_id: 4,
@@ -17834,7 +17834,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 76,
+      brand_id: 77,
       model_id: 803,
       price: 97585,
       store_id: 1,
@@ -17843,7 +17843,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 76,
+      brand_id: 77,
       model_id: 804,
       price: 13930,
       store_id: 4,
@@ -17852,7 +17852,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 76,
+      brand_id: 77,
       model_id: 805,
       price: 75364,
       store_id: 1,
@@ -17861,7 +17861,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 76,
+      brand_id: 77,
       model_id: 806,
       price: 40278,
       store_id: 2,
@@ -17870,7 +17870,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 76,
+      brand_id: 77,
       model_id: 807,
       price: 57945,
       store_id: 4,
@@ -17879,7 +17879,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 76,
+      brand_id: 77,
       model_id: 808,
       price: 12183,
       store_id: 3,
@@ -17888,7 +17888,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 76,
+      brand_id: 77,
       model_id: 809,
       price: 2776,
       store_id: 5,
@@ -17906,7 +17906,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 77,
+      brand_id: 78,
       model_id: 811,
       price: 76138,
       store_id: 2,
@@ -17915,7 +17915,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 77,
+      brand_id: 78,
       model_id: 812,
       price: 2148,
       store_id: 1,
@@ -17924,7 +17924,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 77,
+      brand_id: 78,
       model_id: 813,
       price: 90072,
       store_id: 5,
@@ -17933,7 +17933,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 77,
+      brand_id: 78,
       model_id: 814,
       price: 6460,
       store_id: 4,
@@ -17942,7 +17942,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 77,
+      brand_id: 78,
       model_id: 815,
       price: 50018,
       store_id: 2,
@@ -17951,7 +17951,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 77,
+      brand_id: 78,
       model_id: 816,
       price: 10529,
       store_id: 2,
@@ -17960,7 +17960,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 77,
+      brand_id: 78,
       model_id: 817,
       price: 58457,
       store_id: 2,
@@ -17969,7 +17969,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 77,
+      brand_id: 78,
       model_id: 818,
       price: 31747,
       store_id: 2,
@@ -17978,7 +17978,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 77,
+      brand_id: 78,
       model_id: 819,
       price: 13546,
       store_id: 2,
@@ -17996,7 +17996,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 78,
+      brand_id: 79,
       model_id: 821,
       price: 58824,
       store_id: 5,
@@ -18005,7 +18005,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 78,
+      brand_id: 79,
       model_id: 822,
       price: 82780,
       store_id: 3,
@@ -18014,7 +18014,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 78,
+      brand_id: 79,
       model_id: 823,
       price: 99534,
       store_id: 2,
@@ -18023,7 +18023,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 78,
+      brand_id: 79,
       model_id: 824,
       price: 44952,
       store_id: 1,
@@ -18032,7 +18032,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 78,
+      brand_id: 79,
       model_id: 825,
       price: 27559,
       store_id: 4,
@@ -18041,7 +18041,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 78,
+      brand_id: 79,
       model_id: 826,
       price: 36049,
       store_id: 2,
@@ -18050,7 +18050,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 78,
+      brand_id: 79,
       model_id: 827,
       price: 57594,
       store_id: 3,
@@ -18059,7 +18059,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 78,
+      brand_id: 79,
       model_id: 828,
       price: 86837,
       store_id: 4,
@@ -18068,7 +18068,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 78,
+      brand_id: 79,
       model_id: 829,
       price: 77877,
       store_id: 2,
@@ -18086,7 +18086,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 79,
+      brand_id: 80,
       model_id: 831,
       price: 2119,
       store_id: 1,
@@ -18095,7 +18095,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 79,
+      brand_id: 80,
       model_id: 832,
       price: 67658,
       store_id: 3,
@@ -18104,7 +18104,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 79,
+      brand_id: 80,
       model_id: 833,
       price: 46167,
       store_id: 4,
@@ -18113,7 +18113,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 79,
+      brand_id: 80,
       model_id: 834,
       price: 82294,
       store_id: 4,
@@ -18122,7 +18122,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 79,
+      brand_id: 80,
       model_id: 835,
       price: 18758,
       store_id: 4,
@@ -18131,7 +18131,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 79,
+      brand_id: 80,
       model_id: 836,
       price: 32071,
       store_id: 3,
@@ -18140,7 +18140,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 79,
+      brand_id: 80,
       model_id: 837,
       price: 84335,
       store_id: 1,
@@ -18149,7 +18149,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 79,
+      brand_id: 80,
       model_id: 838,
       price: 17357,
       store_id: 4,
@@ -18158,7 +18158,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 79,
+      brand_id: 80,
       model_id: 839,
       price: 93558,
       store_id: 1,
@@ -18176,7 +18176,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 80,
+      brand_id: 81,
       model_id: 841,
       price: 47816,
       store_id: 1,
@@ -18185,7 +18185,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 80,
+      brand_id: 81,
       model_id: 842,
       price: 66625,
       store_id: 2,
@@ -18194,7 +18194,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 80,
+      brand_id: 81,
       model_id: 843,
       price: 15177,
       store_id: 3,
@@ -18203,7 +18203,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 80,
+      brand_id: 81,
       model_id: 844,
       price: 91011,
       store_id: 2,
@@ -18212,7 +18212,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 80,
+      brand_id: 81,
       model_id: 845,
       price: 77927,
       store_id: 3,
@@ -18221,7 +18221,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 80,
+      brand_id: 81,
       model_id: 846,
       price: 34904,
       store_id: 2,
@@ -18230,7 +18230,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 80,
+      brand_id: 81,
       model_id: 847,
       price: 19775,
       store_id: 2,
@@ -18239,7 +18239,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 80,
+      brand_id: 81,
       model_id: 848,
       price: 85178,
       store_id: 2,
@@ -18248,7 +18248,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 80,
+      brand_id: 81,
       model_id: 849,
       price: 84364,
       store_id: 4,
@@ -18266,7 +18266,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 81,
+      brand_id: 82,
       model_id: 851,
       price: 57009,
       store_id: 1,
@@ -18275,7 +18275,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 81,
+      brand_id: 82,
       model_id: 852,
       price: 50480,
       store_id: 5,
@@ -18284,7 +18284,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 81,
+      brand_id: 82,
       model_id: 853,
       price: 67451,
       store_id: 1,
@@ -18293,7 +18293,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 81,
+      brand_id: 82,
       model_id: 854,
       price: 12106,
       store_id: 5,
@@ -18302,7 +18302,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 81,
+      brand_id: 82,
       model_id: 855,
       price: 47471,
       store_id: 4,
@@ -18311,7 +18311,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 81,
+      brand_id: 82,
       model_id: 856,
       price: 70238,
       store_id: 4,
@@ -18320,7 +18320,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 81,
+      brand_id: 82,
       model_id: 857,
       price: 29484,
       store_id: 4,
@@ -18329,7 +18329,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 81,
+      brand_id: 82,
       model_id: 858,
       price: 55198,
       store_id: 2,
@@ -18338,7 +18338,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 81,
+      brand_id: 82,
       model_id: 859,
       price: 93386,
       store_id: 3,
@@ -18356,7 +18356,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 82,
+      brand_id: 83,
       model_id: 861,
       price: 33922,
       store_id: 1,
@@ -18365,7 +18365,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 82,
+      brand_id: 83,
       model_id: 862,
       price: 39769,
       store_id: 1,
@@ -18374,7 +18374,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 82,
+      brand_id: 83,
       model_id: 863,
       price: 16624,
       store_id: 2,
@@ -18383,7 +18383,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 82,
+      brand_id: 83,
       model_id: 864,
       price: 33824,
       store_id: 4,
@@ -18392,7 +18392,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 82,
+      brand_id: 83,
       model_id: 865,
       price: 29693,
       store_id: 3,
@@ -18401,7 +18401,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 82,
+      brand_id: 83,
       model_id: 866,
       price: 65488,
       store_id: 4,
@@ -18410,7 +18410,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 82,
+      brand_id: 83,
       model_id: 867,
       price: 32014,
       store_id: 3,
@@ -18419,7 +18419,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 82,
+      brand_id: 83,
       model_id: 868,
       price: 83581,
       store_id: 1,
@@ -18428,7 +18428,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 82,
+      brand_id: 83,
       model_id: 869,
       price: 14777,
       store_id: 3,
@@ -18446,7 +18446,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 83,
+      brand_id: 84,
       model_id: 871,
       price: 53814,
       store_id: 5,
@@ -18455,7 +18455,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 83,
+      brand_id: 84,
       model_id: 872,
       price: 74165,
       store_id: 1,
@@ -18464,7 +18464,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 83,
+      brand_id: 84,
       model_id: 873,
       price: 87659,
       store_id: 1,
@@ -18473,7 +18473,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 83,
+      brand_id: 84,
       model_id: 874,
       price: 61177,
       store_id: 4,
@@ -18482,7 +18482,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 83,
+      brand_id: 84,
       model_id: 875,
       price: 13756,
       store_id: 1,
@@ -18491,7 +18491,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 83,
+      brand_id: 84,
       model_id: 876,
       price: 83174,
       store_id: 1,
@@ -18500,7 +18500,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 83,
+      brand_id: 84,
       model_id: 877,
       price: 66817,
       store_id: 5,
@@ -18509,7 +18509,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 83,
+      brand_id: 84,
       model_id: 878,
       price: 5122,
       store_id: 2,
@@ -18518,7 +18518,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 83,
+      brand_id: 84,
       model_id: 879,
       price: 91424,
       store_id: 1,
@@ -18536,7 +18536,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 84,
+      brand_id: 85,
       model_id: 881,
       price: 68439,
       store_id: 5,
@@ -18545,7 +18545,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 84,
+      brand_id: 85,
       model_id: 882,
       price: 9925,
       store_id: 5,
@@ -18554,7 +18554,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 84,
+      brand_id: 85,
       model_id: 883,
       price: 14492,
       store_id: 2,
@@ -18563,7 +18563,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 84,
+      brand_id: 85,
       model_id: 884,
       price: 11580,
       store_id: 3,
@@ -18572,7 +18572,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 84,
+      brand_id: 85,
       model_id: 885,
       price: 56462,
       store_id: 5,
@@ -18581,7 +18581,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 84,
+      brand_id: 85,
       model_id: 886,
       price: 74288,
       store_id: 5,
@@ -18590,7 +18590,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 84,
+      brand_id: 85,
       model_id: 887,
       price: 76502,
       store_id: 3,
@@ -18599,7 +18599,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 84,
+      brand_id: 85,
       model_id: 888,
       price: 92955,
       store_id: 2,
@@ -18608,7 +18608,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 84,
+      brand_id: 85,
       model_id: 889,
       price: 17935,
       store_id: 4,
@@ -18626,7 +18626,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 85,
+      brand_id: 86,
       model_id: 891,
       price: 80628,
       store_id: 3,
@@ -18635,7 +18635,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 85,
+      brand_id: 86,
       model_id: 892,
       price: 79424,
       store_id: 3,
@@ -18644,7 +18644,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 85,
+      brand_id: 86,
       model_id: 893,
       price: 3536,
       store_id: 5,
@@ -18653,7 +18653,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 85,
+      brand_id: 86,
       model_id: 894,
       price: 53171,
       store_id: 4,
@@ -18662,7 +18662,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 85,
+      brand_id: 86,
       model_id: 895,
       price: 66914,
       store_id: 3,
@@ -18671,7 +18671,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 85,
+      brand_id: 86,
       model_id: 896,
       price: 1405,
       store_id: 5,
@@ -18680,7 +18680,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 85,
+      brand_id: 86,
       model_id: 897,
       price: 59584,
       store_id: 4,
@@ -18689,7 +18689,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 21,
-      brand_id: 85,
+      brand_id: 86,
       model_id: 898,
       price: 33413,
       store_id: 2,
@@ -18698,7 +18698,7 @@ module.exports = {
     {
       categ_id: 9,
       type_id: 22,
-      brand_id: 85,
+      brand_id: 86,
       model_id: 899,
       price: 80912,
       store_id: 4,
@@ -18716,7 +18716,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 86,
+      brand_id: 87,
       model_id: 901,
       price: 12175,
       store_id: 4,
@@ -18725,7 +18725,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 86,
+      brand_id: 87,
       model_id: 902,
       price: 34646,
       store_id: 2,
@@ -18734,7 +18734,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 86,
+      brand_id: 87,
       model_id: 903,
       price: 3516,
       store_id: 5,
@@ -18743,7 +18743,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 86,
+      brand_id: 87,
       model_id: 904,
       price: 87697,
       store_id: 5,
@@ -18752,7 +18752,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 86,
+      brand_id: 87,
       model_id: 905,
       price: 41890,
       store_id: 2,
@@ -18761,7 +18761,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 86,
+      brand_id: 87,
       model_id: 906,
       price: 91158,
       store_id: 2,
@@ -18770,7 +18770,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 86,
+      brand_id: 87,
       model_id: 907,
       price: 88521,
       store_id: 2,
@@ -18779,7 +18779,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 86,
+      brand_id: 87,
       model_id: 908,
       price: 75726,
       store_id: 5,
@@ -18788,7 +18788,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 86,
+      brand_id: 87,
       model_id: 909,
       price: 19603,
       store_id: 3,
@@ -18806,7 +18806,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 87,
+      brand_id: 88,
       model_id: 911,
       price: 25180,
       store_id: 1,
@@ -18815,7 +18815,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 87,
+      brand_id: 88,
       model_id: 912,
       price: 10110,
       store_id: 5,
@@ -18824,7 +18824,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 87,
+      brand_id: 88,
       model_id: 913,
       price: 87622,
       store_id: 4,
@@ -18833,7 +18833,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 87,
+      brand_id: 88,
       model_id: 914,
       price: 88141,
       store_id: 1,
@@ -18842,7 +18842,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 87,
+      brand_id: 88,
       model_id: 915,
       price: 35754,
       store_id: 1,
@@ -18851,7 +18851,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 87,
+      brand_id: 88,
       model_id: 916,
       price: 92615,
       store_id: 3,
@@ -18860,7 +18860,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 87,
+      brand_id: 88,
       model_id: 917,
       price: 79629,
       store_id: 5,
@@ -18869,7 +18869,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 87,
+      brand_id: 88,
       model_id: 918,
       price: 34634,
       store_id: 3,
@@ -18878,7 +18878,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 87,
+      brand_id: 88,
       model_id: 919,
       price: 64073,
       store_id: 1,
@@ -18896,7 +18896,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 88,
+      brand_id: 89,
       model_id: 921,
       price: 75350,
       store_id: 5,
@@ -18905,7 +18905,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 88,
+      brand_id: 89,
       model_id: 922,
       price: 45441,
       store_id: 4,
@@ -18914,7 +18914,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 88,
+      brand_id: 89,
       model_id: 923,
       price: 20959,
       store_id: 3,
@@ -18923,7 +18923,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 88,
+      brand_id: 89,
       model_id: 924,
       price: 39967,
       store_id: 1,
@@ -18932,7 +18932,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 88,
+      brand_id: 89,
       model_id: 925,
       price: 76503,
       store_id: 3,
@@ -18941,7 +18941,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 88,
+      brand_id: 89,
       model_id: 926,
       price: 61350,
       store_id: 2,
@@ -18950,7 +18950,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 88,
+      brand_id: 89,
       model_id: 927,
       price: 64379,
       store_id: 5,
@@ -18959,7 +18959,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 88,
+      brand_id: 89,
       model_id: 928,
       price: 81213,
       store_id: 2,
@@ -18968,7 +18968,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 88,
+      brand_id: 89,
       model_id: 929,
       price: 68418,
       store_id: 5,
@@ -18986,7 +18986,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 89,
+      brand_id: 90,
       model_id: 931,
       price: 33303,
       store_id: 2,
@@ -18995,7 +18995,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 89,
+      brand_id: 90,
       model_id: 932,
       price: 99584,
       store_id: 3,
@@ -19004,7 +19004,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 89,
+      brand_id: 90,
       model_id: 933,
       price: 90879,
       store_id: 2,
@@ -19013,7 +19013,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 89,
+      brand_id: 90,
       model_id: 934,
       price: 26003,
       store_id: 2,
@@ -19022,7 +19022,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 89,
+      brand_id: 90,
       model_id: 935,
       price: 11413,
       store_id: 1,
@@ -19031,7 +19031,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 89,
+      brand_id: 90,
       model_id: 936,
       price: 9015,
       store_id: 1,
@@ -19040,7 +19040,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 89,
+      brand_id: 90,
       model_id: 937,
       price: 79902,
       store_id: 1,
@@ -19049,7 +19049,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 89,
+      brand_id: 90,
       model_id: 938,
       price: 91085,
       store_id: 1,
@@ -19058,7 +19058,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 89,
+      brand_id: 90,
       model_id: 939,
       price: 65620,
       store_id: 2,
@@ -19076,7 +19076,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 90,
+      brand_id: 91,
       model_id: 941,
       price: 62328,
       store_id: 1,
@@ -19085,7 +19085,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 90,
+      brand_id: 91,
       model_id: 942,
       price: 46770,
       store_id: 1,
@@ -19094,7 +19094,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 90,
+      brand_id: 91,
       model_id: 943,
       price: 43163,
       store_id: 4,
@@ -19103,7 +19103,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 90,
+      brand_id: 91,
       model_id: 944,
       price: 98736,
       store_id: 3,
@@ -19112,7 +19112,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 90,
+      brand_id: 91,
       model_id: 945,
       price: 9631,
       store_id: 1,
@@ -19121,7 +19121,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 90,
+      brand_id: 91,
       model_id: 946,
       price: 19691,
       store_id: 5,
@@ -19130,7 +19130,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 90,
+      brand_id: 91,
       model_id: 947,
       price: 25460,
       store_id: 5,
@@ -19139,7 +19139,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 90,
+      brand_id: 91,
       model_id: 948,
       price: 53604,
       store_id: 3,
@@ -19148,7 +19148,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 90,
+      brand_id: 91,
       model_id: 949,
       price: 88848,
       store_id: 1,
@@ -19166,7 +19166,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 91,
+      brand_id: 92,
       model_id: 951,
       price: 12328,
       store_id: 4,
@@ -19175,7 +19175,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 91,
+      brand_id: 92,
       model_id: 952,
       price: 74685,
       store_id: 4,
@@ -19184,7 +19184,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 91,
+      brand_id: 92,
       model_id: 953,
       price: 64868,
       store_id: 5,
@@ -19193,7 +19193,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 91,
+      brand_id: 92,
       model_id: 954,
       price: 54627,
       store_id: 1,
@@ -19202,7 +19202,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 91,
+      brand_id: 92,
       model_id: 955,
       price: 14292,
       store_id: 5,
@@ -19211,7 +19211,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 91,
+      brand_id: 92,
       model_id: 956,
       price: 83065,
       store_id: 2,
@@ -19220,7 +19220,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 91,
+      brand_id: 92,
       model_id: 957,
       price: 31654,
       store_id: 2,
@@ -19229,7 +19229,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 91,
+      brand_id: 92,
       model_id: 958,
       price: 61450,
       store_id: 3,
@@ -19238,7 +19238,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 91,
+      brand_id: 92,
       model_id: 959,
       price: 83076,
       store_id: 4,
@@ -19256,7 +19256,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 92,
+      brand_id: 93,
       model_id: 961,
       price: 76001,
       store_id: 4,
@@ -19265,7 +19265,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 92,
+      brand_id: 93,
       model_id: 962,
       price: 33360,
       store_id: 5,
@@ -19274,7 +19274,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 92,
+      brand_id: 93,
       model_id: 963,
       price: 96421,
       store_id: 1,
@@ -19283,7 +19283,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 92,
+      brand_id: 93,
       model_id: 964,
       price: 74060,
       store_id: 5,
@@ -19292,7 +19292,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 92,
+      brand_id: 93,
       model_id: 965,
       price: 33993,
       store_id: 3,
@@ -19301,7 +19301,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 92,
+      brand_id: 93,
       model_id: 966,
       price: 55822,
       store_id: 5,
@@ -19310,7 +19310,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 92,
+      brand_id: 93,
       model_id: 967,
       price: 70563,
       store_id: 4,
@@ -19319,7 +19319,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 92,
+      brand_id: 93,
       model_id: 968,
       price: 863,
       store_id: 5,
@@ -19328,7 +19328,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 92,
+      brand_id: 93,
       model_id: 969,
       price: 80530,
       store_id: 3,
@@ -19346,7 +19346,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 93,
+      brand_id: 94,
       model_id: 971,
       price: 27832,
       store_id: 1,
@@ -19355,7 +19355,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 93,
+      brand_id: 94,
       model_id: 972,
       price: 34214,
       store_id: 1,
@@ -19364,7 +19364,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 93,
+      brand_id: 94,
       model_id: 973,
       price: 22785,
       store_id: 4,
@@ -19373,7 +19373,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 93,
+      brand_id: 94,
       model_id: 974,
       price: 45952,
       store_id: 4,
@@ -19382,7 +19382,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 93,
+      brand_id: 94,
       model_id: 975,
       price: 62886,
       store_id: 4,
@@ -19391,7 +19391,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 93,
+      brand_id: 94,
       model_id: 976,
       price: 17055,
       store_id: 3,
@@ -19400,7 +19400,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 93,
+      brand_id: 94,
       model_id: 977,
       price: 37882,
       store_id: 5,
@@ -19409,7 +19409,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 93,
+      brand_id: 94,
       model_id: 978,
       price: 74550,
       store_id: 3,
@@ -19418,7 +19418,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 93,
+      brand_id: 94,
       model_id: 979,
       price: 29147,
       store_id: 5,
@@ -19436,7 +19436,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 94,
+      brand_id: 95,
       model_id: 981,
       price: 50862,
       store_id: 3,
@@ -19445,7 +19445,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 94,
+      brand_id: 95,
       model_id: 982,
       price: 51134,
       store_id: 2,
@@ -19454,7 +19454,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 94,
+      brand_id: 95,
       model_id: 983,
       price: 43061,
       store_id: 1,
@@ -19463,7 +19463,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 94,
+      brand_id: 95,
       model_id: 984,
       price: 74873,
       store_id: 2,
@@ -19472,7 +19472,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 94,
+      brand_id: 95,
       model_id: 985,
       price: 46902,
       store_id: 1,
@@ -19481,7 +19481,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 94,
+      brand_id: 95,
       model_id: 986,
       price: 63178,
       store_id: 5,
@@ -19490,7 +19490,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 94,
+      brand_id: 95,
       model_id: 987,
       price: 51337,
       store_id: 5,
@@ -19499,7 +19499,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 94,
+      brand_id: 95,
       model_id: 988,
       price: 76228,
       store_id: 5,
@@ -19508,7 +19508,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 94,
+      brand_id: 95,
       model_id: 989,
       price: 81038,
       store_id: 1,
@@ -19526,7 +19526,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 95,
+      brand_id: 96,
       model_id: 991,
       price: 64075,
       store_id: 1,
@@ -19535,7 +19535,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 95,
+      brand_id: 96,
       model_id: 992,
       price: 49507,
       store_id: 2,
@@ -19544,7 +19544,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 95,
+      brand_id: 96,
       model_id: 993,
       price: 87381,
       store_id: 5,
@@ -19553,7 +19553,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 95,
+      brand_id: 96,
       model_id: 994,
       price: 49140,
       store_id: 3,
@@ -19562,7 +19562,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 95,
+      brand_id: 96,
       model_id: 995,
       price: 8169,
       store_id: 5,
@@ -19571,7 +19571,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 95,
+      brand_id: 96,
       model_id: 996,
       price: 1203,
       store_id: 3,
@@ -19580,7 +19580,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 95,
+      brand_id: 96,
       model_id: 997,
       price: 27601,
       store_id: 5,
@@ -19589,7 +19589,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 23,
-      brand_id: 95,
+      brand_id: 96,
       model_id: 998,
       price: 88200,
       store_id: 3,
@@ -19598,7 +19598,7 @@ module.exports = {
     {
       categ_id: 10,
       type_id: 24,
-      brand_id: 95,
+      brand_id: 96,
       model_id: 999,
       price: 36771,
       store_id: 1,
