@@ -9,15 +9,11 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       Item_order.belongsTo(models.Item, {
-        foreignKey: "item_id",
-        onDelete: "CASCADE",
-        onUpdate: "CASCADE",
+    
       });
 
       Item_order.belongsTo(models.Order, {
-        foreignKey: "order_id",
-        onDelete: "CASCADE",
-        onUpdate: "CASCADE",
+      
       });
     }
   }

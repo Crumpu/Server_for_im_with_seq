@@ -104,8 +104,9 @@ class InfoController {
         ...customers.map((order) => order.numberOfCustomers)
       );
       const maxOrderCustomer = customers.filter(
-        (customer) => customer.numberOfCustomers == maxOrderCount
+        (customer) => customer.numberOfCustomers === maxOrderCount.toString()
       );
+
       if (maxOrderCustomer.length > 0) {
         console.log(`Result is: ${JSON.stringify(maxOrderCustomer, null, 2)}`);
         res.status(200).json(maxOrderCustomer);
@@ -120,26 +121,47 @@ class InfoController {
   }
   async mostExpensivePurchase(req, res, next) {
     try {
-      const results = await Order.findAll({
+      const customers = await Order.findAll({
         attributes: [
-           [sequelize.col("Customer.name"), "customerName"],
-           [sequelize.col("Item.price"), "itemPrice"]
-          ],
+          ["id", "order_id"],
+          [sequelize.col("Customer.name"), "name"],
+          [sequelize.col("Item.price"), "price"],
+          [sequelize.col("Order.amount"), "amount"],
+          [sequelize.fn("MAX", sequelize.literal('"Order"."amount" * "Item"."price"')), "orderPrice"]
+        ],
+
         include: [
           {
             model: Customer,
+            as: "Customer",
             attributes: [],
           },
           {
+            through: {
+              attributes: [],
+            },
             model: Item,
+            as: "Item",
             attributes: [],
           },
         ],
-        group: ["Customer.name"],
-        // order: [[sequelize.literal("total"), "DESC"]],
+        raw: true,
+        group: ["Order.id", "Item.id", "Customer.name"],
+        order: [["orderPrice", "DESC"]],
       });
-      console.log(results);
-      res.json(results);
+      const maxOrderPice = Math.max(
+        ...customers.map((order) => order.orderPrice)
+      );
+      // console.log(maxOrderPice)
+      const maxCustomerPrice = customers.filter(
+        (customer) => customer.orderPrice === maxOrderPice.toFixed(2));
+        if(maxCustomerPrice.length > 0){
+          console.log(`Result is: ${JSON.stringify(maxCustomerPrice, null, 2)}`)
+          res.status(200).json(maxCustomerPrice);
+        } else { 
+          console.log('Customers not found, bad request');
+        createError(404, "Bad request, customer not found");
+        }
     } catch (error) {
       console.error(error.message);
       next(error);
