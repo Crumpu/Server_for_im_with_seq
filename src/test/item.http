@@ -23,12 +23,13 @@ content-type: application/json
 PUT http://127.0.0.1:5000/api/items
 content-type: application/json
 
-{
-  "id": 14,
-  "category": "Electronics",
-  "type": "Accessories for gadget",
-  "brand": "itemControllerApple",
-  "price": "92716.00",
-  "store": "Dropshipping",
-  "amount": "912"
-},
+ {
+    "id": 14,
+    "category": "Electronics",
+    "type": "Laptops",
+    "brand": "Samsung",
+    "model": "MacBook Air",
+    "price": "85264.00",
+    "store": "ALLO",
+    "amount": "1017"
+  }

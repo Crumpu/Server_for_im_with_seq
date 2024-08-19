@@ -6,6 +6,7 @@ const {
   CUSTOMER_SCHEMA,
   ORDER_SCHEMA,
   MODELS_SCHEMA,
+  ITEMS_SCHEMA,
 } = require(path.resolve("src", "utils", "validationSchemas"));
 
 const validateSchema = function (schema) {
@@ -32,3 +33,4 @@ module.exports.validateType = validateSchema(CATEGORY_BRAND_TYPE_STORE_SCHEMA);
 module.exports.validateStore = validateSchema(CATEGORY_BRAND_TYPE_STORE_SCHEMA);
 module.exports.validateOrder = validateSchema(ORDER_SCHEMA);
 module.exports.validateModel = validateSchema(MODELS_SCHEMA);
+module.exports.validateItem = validateSchema(ITEMS_SCHEMA);

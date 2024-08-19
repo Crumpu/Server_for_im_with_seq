@@ -47,7 +47,13 @@ const MODELS_SCHEMA = yup.object().shape({
 // Items schema
 
 const ITEMS_SCHEMA = yup.object().shape({
-  
+  category: yup.string().min(2).required(),
+  type: yup.string().min(2).required(),
+  brand: yup.string().min(2).required(),
+  model: yup.string().min(2).required(),
+  price: yup.number().min(0),
+  store: yup.string(),
+  amount: yup.number().min(0)
 })
 
 module.exports = {
@@ -56,4 +62,5 @@ module.exports = {
   CUSTOMER_SCHEMA,
   CATEGORY_BRAND_TYPE_STORE_SCHEMA,
   ORDER_SCHEMA,
+  ITEMS_SCHEMA
 };

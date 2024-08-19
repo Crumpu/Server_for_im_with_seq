@@ -2,7 +2,7 @@ const {Router} = require('express');
 // =================================
 const itemController = require('../controllers/itemControllers')
 const {
-	validate: {validateModel}} = require('../middleware');
+	validate: {validateItem}} = require('../middleware');
 const {paginate} = require('../middleware')
 
 const router = new Router();
@@ -10,7 +10,7 @@ const router = new Router();
 router
   .route('/')
   .get(paginate.paginateSomething, itemController.getAllItems)
-  .put(validateModel, itemController.updateItems)
+  .put(validateItem, itemController.updateItems)
 
 router
   .route('/moreThan')

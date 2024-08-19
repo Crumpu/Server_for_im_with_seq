@@ -1,0 +1,22 @@
+//  Number of models for one brand
+GET http://127.0.0.1:5000/api/info/countModel  HTTP/1.1
+content-type: application/json
+
+### 
+//Number of items for one type on one store 
+GET http://127.0.0.1:5000/api/info/itemPerStore   HTTP/1.1
+content-type: application/json
+
+
+### 
+// The largest number of purchases
+GET http://127.0.0.1:5000/api/info/highestCustomer   HTTP/1.1
+content-type: application/json
+
+### 
+// The most expensive purchases
+GET http://127.0.0.1:5000/api/info/mostExpensive   HTTP/1.1
+content-type: application/json
+
+
+
