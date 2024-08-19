@@ -120,17 +120,31 @@ class InfoController {
   }
   async mostExpensivePurchase(req, res, next) {
     try {
-      const mostExpensive = await 
-      console.log(results)
+      const results = await Order.findAll({
+        attributes: [
+           [sequelize.col("Customer.name"), "customerName"],
+           [sequelize.col("Item.price"), "itemPrice"]
+          ],
+        include: [
+          {
+            model: Customer,
+            attributes: [],
+          },
+          {
+            model: Item,
+            attributes: [],
+          },
+        ],
+        group: ["Customer.name"],
+        // order: [[sequelize.literal("total"), "DESC"]],
+      });
+      console.log(results);
       res.json(results);
     } catch (error) {
       console.error(error.message);
       next(error);
     }
   }
-
-
-  
 }
 
 module.exports = new InfoController();
