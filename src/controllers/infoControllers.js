@@ -125,15 +125,14 @@ class InfoController {
         attributes: [
           ["id", "order_id"],
           [sequelize.col("Customer.name"), "name"],
-          [sequelize.col("Item.price"), "price"],
+          [sequelize.col("items.price"), "price"],
           [sequelize.col("Order.amount"), "amount"],
-          [sequelize.fn("MAX", sequelize.literal('"Order"."amount" * "Item"."price"')), "orderPrice"]
+          [sequelize.fn("MAX", sequelize.literal('"Order"."amount" * "items"."price"')), "orderPrice"]
         ],
 
         include: [
           {
             model: Customer,
-            as: "Customer",
             attributes: [],
           },
           {
@@ -141,12 +140,12 @@ class InfoController {
               attributes: [],
             },
             model: Item,
-            as: "Item",
+            as: "items",
             attributes: [],
           },
         ],
         raw: true,
-        group: ["Order.id", "Item.id", "Customer.name"],
+        group: ["Order.id", "items.id", "Customer.name"],
         order: [["orderPrice", "DESC"]],
       });
       const maxOrderPice = Math.max(
