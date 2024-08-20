@@ -37,5 +37,3 @@ const syncSomeTable = async () => {
   }
 };
 
-// syncSomeTable();
-
