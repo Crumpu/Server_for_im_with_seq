@@ -20,7 +20,7 @@ const dbCheck = async () => {
     );
   } catch (error) {
     console.log("Cannot connect to DB: ", error.message);
-  } 
+  }
 };
 dbCheck();
 
@@ -36,4 +36,3 @@ const syncSomeTable = async () => {
     console.log("Cannot sync table: ", error.message);
   }
 };
-

@@ -17,7 +17,7 @@ class BrandController {
         console.log(`Result is: ${JSON.stringify(brands, null, 2)}`);
         res.status(200).json(brands);
       } else {
-        next(createError(404, 'Brands from your request not found'));
+        next(createError(404, "Brands from your request not found"));
       }
     } catch (error) {
       console.log(error.message);
@@ -37,8 +37,8 @@ class BrandController {
         console.log(`Result is: ${JSON.stringify(brands, null, 2)}`);
         res.status(200).json(brands);
       } else {
-        console.log('Brands from your request not found')
-        next(createError(404, 'Brands from your request not found'));
+        console.log("Brands from your request not found");
+        next(createError(404, "Brands from your request not found"));
       }
     } catch (error) {
       console.log(error.message);
@@ -61,8 +61,8 @@ class BrandController {
         console.log(`Result is: ${JSON.stringify(someBrands, null, 2)}`);
         res.status(200).json(someBrands);
       } else {
-        console.log('Brands from your request not found')
-        next(createError(404, 'Brands from your request not found'));
+        console.log("Brands from your request not found");
+        next(createError(404, "Brands from your request not found"));
       }
     } catch (error) {
       console.log(error.message);
@@ -118,6 +118,44 @@ class BrandController {
     } catch (error) {
       console.log(error.message);
       await t.rollback();
+      next(error);
+    } 
+  }
+
+  async changeImage(req, res, next) {
+    try {
+      console.log(req)
+      // const t = await sequelize.transaction();
+      const {
+        file: { filename },
+        params: { brandId },
+      } = req;
+      const [count, [updatedBrands]] = await Brand.update(
+        {
+          image: filename
+        },
+        {
+          where: {
+            id: brandId,
+          },
+          returning: ["title"],
+          // transaction: t,
+          fields: ["image"],
+          raw: true,
+        }
+      );
+      console.log(count);
+      console.log(updatedBrands);
+      if (count > 0) {
+        console.log(`Result is: ${JSON.stringify(updatedBrands, null, 2)}`);
+        res.status(200).json(updatedBrands);
+      } else {
+        next(createError(404, "Brand not found"));
+      }
+      // await t.commit();
+    } catch (error) {
+      console.log(error.message);
+      // await t.rollback();
       next(error);
     }
   }

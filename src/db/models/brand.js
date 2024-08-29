@@ -11,13 +11,13 @@ module.exports = (sequelize, DataTypes) => {
       // define association here
       Brand.hasMany(models.Item, {
         foreignKey: "brand_id",
-        onDelete: 'CASCADE',
-        onUpdate: 'CASCADE',
+        onDelete: "CASCADE",
+        onUpdate: "CASCADE",
       });
       Brand.hasMany(models.Item_model, {
         foreignKey: "brand_id",
-        onDelete: 'CASCADE',
-        onUpdate: 'CASCADE',
+        onDelete: "CASCADE",
+        onUpdate: "CASCADE",
       });
     }
   }
@@ -29,6 +29,10 @@ module.exports = (sequelize, DataTypes) => {
         allowNull: false,
       },
       description: DataTypes.TEXT,
+      image: {
+        type: DataTypes.TEXT,
+        allowNull: true,
+      },
       createdAt: {
         type: DataTypes.DATE,
         allowNull: true,

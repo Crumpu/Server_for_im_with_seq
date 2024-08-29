@@ -149,8 +149,7 @@ class InfoController {
       });
       const maxOrderPice = Math.max(
         ...customers.map((order) => order.orderPrice)
-      );
-      // console.log(maxOrderPice)
+      );    
       const maxCustomerPrice = customers.filter(
         (customer) => customer.orderPrice === maxOrderPice.toFixed(2));
         if(maxCustomerPrice.length > 0){
